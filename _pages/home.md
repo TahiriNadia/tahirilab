@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Tahiri Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Tahiri Lab at Sherbrooke University."
 sitemap: false
 permalink: /
 ---
