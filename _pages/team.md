@@ -349,7 +349,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+### Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -377,4 +377,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:nadia.tahiri@gmail.com">Nadia Tahiri</a> is helping us (and other groups) with administration.
