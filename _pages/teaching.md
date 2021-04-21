@@ -34,3 +34,26 @@ I was / am a lecture for the following courses:
 <br />
 
 ## Teaching assistant
+
+  1. **École de technologie supérieure**
+      - INF 130 - Ordinateurs et programmation (2020)
+      - INF 147 - Programmation procédurale (2020)
+      - INF 111 - Programmation orientée objet (hors programme) (2020)
+      - INF 135 - Introduction à la programmation en génie mécanique (2020)  
+
+  <br />
+  
+  2. **Université du Québec à Montréal**
+      - INF 8212 - Introduction aux systèmes informatiques (2014-2017)  
+      - INF 8214 - Programmation avancée (2014-2017)
+      - INF 1120 - Programmation I (2015)
+      - INF 3080 - Bases de données(2015)
+      - INF 7212 - Introduction aux systèmes informatiques (2011-2014)
+      - INF 7214 - Développement de logiciels (2011-2014)
+      - INF 4210 - Introduction aux bases de données (2011-2013) 
+      - MPA 2100 - Monitorat de programme (2011-2013)
+      - INF 1025 - Outils de bureautique et Internet (2011)
+      - INF 3005 - Programmation Web avancée (2011)
+      - INF 7213 - Algorithmes et structures discrètes (2010)  
+  
+  <br />
