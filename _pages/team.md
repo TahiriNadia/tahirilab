@@ -261,7 +261,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 {% endif %}
 
 
-## Bachelor Students
+## Interns Students
 *****
 {% assign number_printed = 0 %}
 {% for member in site.data.bachelor %}
