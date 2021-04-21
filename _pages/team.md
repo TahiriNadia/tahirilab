@@ -60,6 +60,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
   <li> {{ member.education5 }} </li>
   {% endif %}
   
+  <br><br>
   {% if member.number_fellow == 2 %}
   <li> {{ member.fellow1 }} </li>
   <li> {{ member.fellow2 }} </li>
