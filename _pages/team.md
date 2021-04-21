@@ -13,7 +13,8 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## __Principal Investigator__
+## Principal Investigator
+* * *
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -349,25 +350,25 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-### Former visitors, BSc/ MSc students
+<!-- ### Former visitors, BSc/ MSc students -->
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<!-- <h4>Visitors</h4> -->
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<!-- <h4>Master students</h4> -->
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<!-- <h4>Bachelor Students</h4> -->
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
