@@ -26,8 +26,4 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Sherbrooke University, see [mastersinleiden.nl](https://www.usherbrooke.ca/). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-Our lab and the University of Toronto is strongly committed to diversity within its community and especially welcomes applications from racialized persons / persons of colour, women, Indigenous / Aboriginal People of North America, persons with disabilities, LGBTQ persons, and others who may contribute to the further diversification of ideas.
-
+If you are interested in pursuing a Master degree at Sherbrooke University, see [usherbrooke.ca](https://www.usherbrooke.ca/). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
