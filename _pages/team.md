@@ -137,7 +137,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## PhD Students
+<!-- ## PhD Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
@@ -197,7 +197,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} 
 
 ## Master Students
 {% assign number_printed = 0 %}
