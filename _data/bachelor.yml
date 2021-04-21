@@ -1,1 +1,16 @@
+#- name:
+#  photo: name.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
 
+- name: My-Linh Luu
+  photo: My-Linh_Luu.JPG
+  info: Bachelor student
+  email: luu.my-linh@courrier.uqam.ca 
+  number_educ: 0
+  education1: Algorithme pour corrélation entre la distribution géographique et génétique du COVID-19
