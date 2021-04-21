@@ -14,7 +14,7 @@ permalink: /team/
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Principal Investigator
-* * *
+*****
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -77,6 +77,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 ## Collaborators
+*****
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborator %}
 
@@ -200,7 +201,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %} 
 
-## Master Students
+<!-- ## Master Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
 
@@ -255,6 +256,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Bachelor Students
+*****
 {% assign number_printed = 0 %}
 {% for member in site.data.bachelor %}
 
