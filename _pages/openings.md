@@ -3,7 +3,7 @@ title: "Tahiri Lab - We are hiring"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /we-are-hiring
+permalink: /openings
 ---
 
 # Open positions
