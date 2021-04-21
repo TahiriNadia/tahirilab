@@ -22,8 +22,8 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### Master projects for Sherbrooke University students
+If you are a Master student at Sherbrooke University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at Sherbrooke University, see [usherbrooke.ca](https://www.usherbrooke.ca/). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
