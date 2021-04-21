@@ -2,11 +2,11 @@
   photo: Nadia_Tahiri.png
   info: Assistant professor, started July 2021
   email: nadia.tahiri@gmail.com
-  number_educ: 7
+  number_educ: 5
   education1: Bachelor Cell Biology and Physiology with <a href="https://ufr-svte.u-bourgogne.fr/equipe/pichon-laurent">Laurent Pichon</a>, University of Burgundy
   education2: DU Computer Science Applied, University of Paris-XI (Orsay)
   education3: DESS Bioinformatique, University of Quebec at Montreal
   education4: Master Computer Science with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html">Vladimir Makarenkov</a> and <a href="https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=pedro-peresneto">Pedro Neto-Peres</a>
   education5: PhD Computer Science with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html">Vladimir Makarenkov</a>
-  education6: Postdoc QSAR/PBPK model prediction in environmental health sciences with <a href="https://espum.umontreal.ca/lespum/equipe/personnel-enseignant/professeur/in/in18939/sg/Marc-Andr%C3%A9%20Verner/">Marc-André Verner</a>
-  education7: FRQS Postdoctoral fellow</a> at University of Montreal 
+  #education6: Postdoc QSAR/PBPK model prediction in environmental health sciences with <a href="https://espum.umontreal.ca/lespum/equipe/personnel-enseignant/professeur/in/in18939/sg/Marc-Andr%C3%A9%20Verner/">Marc-André Verner</a>
+  #education7: FRQS Postdoctoral fellow</a> at University of Montreal 
