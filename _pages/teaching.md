@@ -26,12 +26,12 @@ I was / am a lecture for the following courses:
       - BIF 7101 - Bioinformatique des structures (2017-2019)
       - INF 0326 - Outils de bureautique et Internet (hors programme) (2015-2016)  
  
- <br />
+     <br />
  
   3. **Université de Montréal**
       - MSN 6146 - Toxicologie prédictive - Modélisation structure à activité (QSAR) (2020)  
 
-<br />
+      <br />
 
 ## Teaching assistant
 
@@ -41,7 +41,7 @@ I was / am a lecture for the following courses:
       - INF 111 - Programmation orientée objet (hors programme) (2020)
       - INF 135 - Introduction à la programmation en génie mécanique (2020)  
 
-  <br />
+      <br />
   
   2. **Université du Québec à Montréal**
       - INF 8212 - Introduction aux systèmes informatiques (2014-2017)  
@@ -56,4 +56,4 @@ I was / am a lecture for the following courses:
       - INF 3005 - Programmation Web avancée (2011)
       - INF 7213 - Algorithmes et structures discrètes (2010)  
   
-  <br />
+      <br />
