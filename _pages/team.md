@@ -208,8 +208,9 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 {% endif %} 
 
 ## Master Students
+*****
 {% assign number_printed = 0 %}
-{% for member in site.data.master %}
+{% for member in site.data.bachelor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -218,8 +219,9 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -242,6 +244,14 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
