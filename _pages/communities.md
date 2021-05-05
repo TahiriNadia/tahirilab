@@ -1,8 +1,14 @@
 ---
-title: "Tahiri Lab - Home"
-layout: homelay
-excerpt: "Tahiri Lab at Sherbrooke University."
+title: "Tahiri Lab - Communities"
+layout: textlay
+excerpt: "Communities"
 sitemap: false
-permalink: /
+permalink: /communities
 ---
+
+# GDG
+
+We are always looking for new group members with passion, talent, and grit!
+
+# WTM
 
