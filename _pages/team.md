@@ -1,6 +1,6 @@
 ---
 title: "Tahiri Lab - Team"
-layout: gridlay
+layout: textlay
 excerpt: "Tahiri Lab: Team members"
 sitemap: false
 permalink: /team/
