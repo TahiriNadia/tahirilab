@@ -207,7 +207,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 </div>
 {% endif %} 
 
-<!-- ## Master Students -->
+## Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
 
@@ -325,7 +325,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni -->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -358,7 +358,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 </div>
 {% endif %}
 
-### Former visitors, BSc/ MSc students
+<!-- ### Former visitors, BSc/ MSc students -->
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -369,14 +369,14 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<!-- <h4>Master students</h4> -->
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<!-- <h4>Bachelor Students</h4> -->
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
