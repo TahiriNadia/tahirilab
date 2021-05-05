@@ -210,7 +210,7 @@ Jump to [Principal Investigator](#Principal-Investigator), [master and bachelor 
 ## Master Students
 *****
 {% assign number_printed = 0 %}
-{% for member in site.data.bachelor %}
+{% for member in site.data.master %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
