@@ -16,7 +16,7 @@ The increasing diversity of environmental chemicals in the environment, some of 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pipelineQSAR.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
-  Source : Lévêque\#, Tahiri\#, Goldsmith, and Verner (2021)
+  Source : Lévêque\#, Tahiri\#, Goldsmith, and Verner (2021) <br>
   \# Contributed equally
 </div>
 
