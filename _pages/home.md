@@ -8,6 +8,7 @@ permalink: /
 
 We are a dynamic research group at the [Sherbrooke University, Department of Computer Science](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
+Through engaged scholarship, our laboratory develops transdisciplinary research projects to analyze the evolution of species and assess the impacts on health by combining, among other things, information from the genetics of species and climatic parameters.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
