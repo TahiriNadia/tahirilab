@@ -29,6 +29,35 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Site Author
+author:
+  name             : "Nadia Tahiri"
+  avatar           : "Nadia_Tahiri.png"
+  bio              : "PostDoctoral Research."
+  location         : "Montreal, Canada."
+  employer         :
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=cOfpZhEAAAAJ"
+  email            : "nadia.tahiri@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "TahiriNadia"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "tahiri-nadia/"
+  orcid            : "https://orcid.org/0000-0002-1818-208X"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : "DrNadiaTahiri"
 
 
 # Markdown Processing
