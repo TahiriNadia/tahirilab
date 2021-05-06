@@ -26,8 +26,8 @@ permalink: /communities
 
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_WTM.png" class="img-responsive" width="21%" style="padding: 20px; float: left" />
-    Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. This program has been in over 200 global events and seen across 52 countries.
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_WTM.png" class="img-responsive" width="21%" style="padding: 23px; float: left" />
+    > Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. This program has been in over 200 global events and seen across 52 countries.
 
 </div>
 
