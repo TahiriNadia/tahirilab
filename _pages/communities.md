@@ -6,10 +6,16 @@ sitemap: false
 permalink: /communities
 ---
 
-# GDG
+# GDG Cloud Sherbrooke
 
-We are always looking for new group members with passion, talent, and grit!
+GDG Cloud Sherbrooke is a community for those who use, want to use and are interested in the Google Cloud Platform (GCP). This Meetup will be for folks who live in or are visiting Sherbrooke (QC) who are interested in technologies available on the Google Cloud Platform.
+
+This meetup will be used to discuss announcements, features, road maps, customer stories, feedback, and anything related to helping our community succeed with the Google Cloud Platform. Keeping with other GCP meetups, we want this to be a community where we can have unbiased and open discussions about the platform.
+
+GDG Cloud - Sherbrooke is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://gdg.community.dev/gdg-cloud-sherbrooke/
+
 
 # WTM
 
+Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. This program has been in over 200 global events and seen across 52 countries.
 
