@@ -20,7 +20,7 @@ permalink: /communities
 
 </div>
 
-***
+---
 
 # WTM
 
