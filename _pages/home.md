@@ -10,9 +10,9 @@ We are a dynamic research group at the [Sherbrooke University, Department of Com
 
 Through engaged scholarship, our laboratory develops transdisciplinary research projects to analyze the evolution of species and assess the impacts on health by combining, among other things, information from the genetics of species and climatic parameters.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" > -->
     <!-- Menu -->
-    <ol class="carousel-indicators">
+    <!-- <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
@@ -20,7 +20,7 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
+    </ol> -->
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
@@ -47,7 +47,7 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 7" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <!--<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -55,7 +55,7 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 
 
 
