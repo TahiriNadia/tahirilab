@@ -6,13 +6,14 @@ sitemap: false
 permalink: /communities
 ---
 
-# GDG Cloud Sherbrooke
+# GDG Cloud Sherbrooke ![alt text](/images/logo_gdg.png "Google Developer Groups (GDG")
+
 
 GDG Cloud Sherbrooke is a community for those who use, want to use and are interested in the Google Cloud Platform (GCP). This Meetup will be for folks who live in or are visiting Sherbrooke (QC) who are interested in technologies available on the Google Cloud Platform.
 
 This meetup will be used to discuss announcements, features, road maps, customer stories, feedback, and anything related to helping our community succeed with the Google Cloud Platform. Keeping with other GCP meetups, we want this to be a community where we can have unbiased and open discussions about the platform.
 
-GDG Cloud - Sherbrooke is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://gdg.community.dev/gdg-cloud-sherbrooke/
+GDG Cloud - Sherbrooke is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit [https://gdg.community.dev/gdg-cloud-sherbrooke/](https://gdg.community.dev/gdg-cloud-sherbrooke/)
 
 
 # WTM
