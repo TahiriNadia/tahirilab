@@ -20,7 +20,9 @@ permalink: /communities
 
 </div>
 
----
+<br />
+
+<hr>
 
 # WTM
 
