@@ -1,0 +1,7 @@
+
+<h4>Nadia Tahiri, PhD</h4>
+
+{% for article in site.data.info limit:9 %}
+{{ article.date }}
+<p>{{ article.headline }}</p>
+{% endfor %}
