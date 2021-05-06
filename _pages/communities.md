@@ -35,7 +35,6 @@ permalink: /communities
     <br />
   <br />
   <br />
-    <br />
   Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. This program has been in over 200 global events and seen across 52 countries.
 
 </div>
