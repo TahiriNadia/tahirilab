@@ -1,6 +1,6 @@
 ---
 title: "Tahiri Lab - Home"
-layout: homelay
+layout: archive
 excerpt: "Tahiri Lab at Sherbrooke University."
 sitemap: false
 permalink: /
