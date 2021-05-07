@@ -10,7 +10,7 @@
 
 - name: My-Linh Luu
   photo: My-Linh_Luu.JPG
-  info: Bachelor student
+  info: Bachelor student in computer Science
   email: luu.my-linh@courrier.uqam.ca 
   number_educ: 3
   education1: Algorithme pour corrélation entre la distribution géographique et génétique du SARS-COVID-19
@@ -19,7 +19,9 @@
 
 - name: Wanlin Li
   photo: Wanlin_Li.jpeg
-  info: DESS Bioinformatique
+  info: DESS student in bioinformatic
   email: wanlinli2018@gmail.com 
-  number_educ: 1
+  number_educ: 2
   education1: Développement d'outils de visualisation interactif du SARS-COVID-19
+  education2: worked in one paper on Czech Journal of Genetics and Plant Breeding (2017)
+  
