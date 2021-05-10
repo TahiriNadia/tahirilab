@@ -1,3 +1,10 @@
+- name: Boris Morozov
+  photo: Boris_Morozov.jpg
+  info: Professor
+  email: boris.coldman@gmail.com 
+  number_educ: 1
+  education1: PhD of Computer Science and Mathematics, Astrakhan State University, Astrakhan, Russia
+  
 - name: Alexandr V. Koshkarov
   photo: Alexandr_Koshkarov.jpg
   info: Professor
