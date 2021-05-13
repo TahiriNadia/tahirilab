@@ -24,3 +24,10 @@
   number_educ: 1
   education1: Développement d'outils de visualisation interactif du SARS-COVID-19
   
+
+- name: Zineb Mohssine
+  photo: Zineb_Mohssine.jpeg
+  info: DESS student in bioinformatic
+  email: mohssine.zineb@courrier.uqam.ca 
+  number_educ: 1
+  education1: Collecte et analyse des données de Gisaid et NCBI du SARS-COVID-19
