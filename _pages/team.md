@@ -128,12 +128,6 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
-  <br><br>
-  {% if member.number_fellow == 2 %}
-  <li> {{ member.fellow1 }} </li>
-  <li> {{ member.fellow2 }} </li>
-  {% endif %}
 
   </ul>
 </div>
