@@ -23,4 +23,10 @@
   number_educ: 2
   education1: Un nouvel algorithme pour sélectionner les descripteurs utilisés par les modèles prédictifs des relations quantitatives structure-activité (RQSA).
   education2: Collaboration with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html">Pr. Vladimir Makarenkov</a>
-
+  
+- name: Marwa Ali
+  photo: Marwa_Ali.png
+  info: Master student
+  email: marwaali.tn@gmail.com
+  number_educ: 1
+  education1: Utilisation des outils phylogéographiques pour explorer la diversité génétique de Sras-COVID-19 en Amérique du Nord.
