@@ -145,7 +145,7 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
 </div>
 {% endif %}
 
-<!-- ## PhD Students -->
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
