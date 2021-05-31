@@ -146,6 +146,7 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
 {% endif %}
 
 ## PhD Students
+*****
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
@@ -336,8 +337,8 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
 {% endif %}
 
 
-<!-- ## Alumni -->
-
+## Alumni
+*****
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
