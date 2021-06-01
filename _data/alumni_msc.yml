@@ -1,8 +1,17 @@
 #- name: Maarten Leeuwenhoek, Spring 2015
-- name: Laura Lévêque
+- name: Laura Lévêque (2021)
   photo: Laura_Leveque.png
   info: Master student
   email: laura.leveque@umontreal.ca 
   number_educ: 2
   education1: Modélisation de la relation quantitative de structure-activité (QSAR) du passage placentaire des contaminants environnementaux
   education2: Collaboration with <a href="https://espum.umontreal.ca/lespum/equipe/personnel-enseignant/professeur/in/in18939/sg/Marc-Andr%C3%A9%20Verner/">Dr. Marc-André Verner</a>
+
+- name: Nancy Badran (2018)
+  photo: Nancy_Badran.jpg
+  info: Master student
+  email: nancy.badran@canada.ca 
+  number_educ: 2
+  education1: Un nouvel algorithme bioinformatique pour retrouver la relation entre la phylogénie et la phylogéographie des espèces
+  education2: Collaboration with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html/">Pr. Vladimir Makarenkov</a>
+
