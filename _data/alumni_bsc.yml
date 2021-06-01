@@ -1,2 +1,8 @@
 #- name: Vishnu Saj, Spring 2017
-
+- name: Bogdan Mazoure (2017)
+  photo: Bogdan_Mazoure.jpg
+  info: Bachelor degree
+  email: bogdan.mazoure@mail.mcgill.ca
+  number_educ: 2
+  education1: An intelligent shopping list based on the application of partitioning and machine learning algorithms
+  education2: Collaboration with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html/">Pr. Vladimir Makarenkov</a>
