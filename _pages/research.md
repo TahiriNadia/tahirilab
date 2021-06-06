@@ -33,4 +33,4 @@ permalink: /research/
 - Intelligent shopping list
     > abstract
 > 
-### ... and more.
+<!--### ... and more.-->
