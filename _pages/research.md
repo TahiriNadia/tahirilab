@@ -19,7 +19,6 @@ permalink: /research/
   Source : Tahiri, Fichet, and Makarenkov (2021) <br>
 </div> -->
 
-<br />
 
 ### Quantitative Structure-Activity Relationship (QSAR) Modeling
 *The increasing diversity of environmental chemicals in the environment, some of which may be developmental toxicants, is a public health concern.*
@@ -31,15 +30,13 @@ permalink: /research/
   <sup>\#</sup>Contributed equally
 </div>-->
 
-<br />
 
 ### Phylogeography: Evolution and climat
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
 
-<br />
 
 ### Intelligent shopping list
 *A grocery list is an integral part of the shopping experience of many consumers. Several mobile retail studies of grocery apps indicate that potential customers place the highest priority on features that help them to create and manage personalized shopping lists.*
 
-<br />
+
 <!--### ... and more.-->
