@@ -42,5 +42,4 @@ permalink: /research/
 *A grocery list is an integral part of the shopping experience of many consumers. Several mobile retail studies of grocery apps indicate that potential customers place the highest priority on features that help them to create and manage personalized shopping lists.*
 
 <br />
-> 
 <!--### ... and more.-->
