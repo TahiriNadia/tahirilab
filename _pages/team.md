@@ -65,6 +65,13 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
   <li> {{ member.fellow1 }} </li>
   <li> {{ member.fellow2 }} </li>
   {% endif %}
+    
+  <br><br>
+  {% if member.number_fellow == 3 %}
+  <li> {{ member.fellow1 }} </li>
+  <li> {{ member.fellow2 }} </li>
+  <li> {{ member.fellow3 }} </li>
+  {% endif %}
 
   </ul>
 </div>
