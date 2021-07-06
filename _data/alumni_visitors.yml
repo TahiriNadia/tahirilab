@@ -1,4 +1,12 @@
 #- name: Nikolaos Iliopoulos, Spring 2016
 
+- name: Zineb Mohssine (2021)
 - name: Sondos Samandi (2015)
 - name: Alireza Goodarzi (2015)
+
+#- name: Zineb Mohssine
+#  photo: Zineb_Mohssine.jpeg
+#  info: DESS student in bioinformatic
+#  email: mohssine.zineb@courrier.uqam.ca 
+#  number_educ: 1
+#  education1: Collecte et analyse des données de Gisaid et NCBI du SARS-COVID-19
