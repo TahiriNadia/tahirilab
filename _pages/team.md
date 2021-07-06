@@ -60,7 +60,7 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
   <li style="list-style: none;"> {{ member.education5 }} </li>
   {% endif %}
    
-   <br><br>
+   <br>
    
   {% if member.number_fellow == 2 %}
   <li> {{ member.fellow1 }} </li>
@@ -68,9 +68,9 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
   {% endif %}
     
   {% if member.number_fellow == 3 %}
-  <li> {{ member.fellow1 }} </li>
-  <li> {{ member.fellow2 }} </li>
-  <li> {{ member.fellow3 }} </li>
+  <li style="list-style: none;"> {{ member.fellow1 }} </li>
+  <li style="list-style: none;"> {{ member.fellow2 }} </li>
+  <li style="list-style: none;"> {{ member.fellow3 }} </li>
   {% endif %}
 
   </ul>
