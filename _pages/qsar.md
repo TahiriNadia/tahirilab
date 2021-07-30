@@ -6,8 +6,6 @@ sitemap: false
 permalink: /qsar/
 ---
 
-# Research 
-
 
 ## Quantitative Structure-Activity Relationship (QSAR) Modeling
 *The increasing diversity of environmental chemicals in the environment, some of which may be developmental toxicants, is a public health concern.*
