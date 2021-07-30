@@ -18,3 +18,18 @@ Consensus tree and supertree inference methods synthesize collections of gene ph
 <div style="text-align: right">
   Source : Tahiri, Fichet, and Makarenkov (2021) <br>
 </div> 
+
+
+### Principal Investigator:
+
+Nadia Tahiri (University of Sherbrooke)
+
+
+### Related publication:
+
+Tahiri, N; Fichet, B; Makarenkov, V. (2021). Building alternative consensus trees and supertrees using kmeans and Robinson and Foulds distance. Systematic Biology, submitted.
+Tahiri, N; Willems, M; Makarenkov, V. (2018). A new fast method for inferring multiple consensus trees using k-medoids. BMC evolutionary biology. 18(48): 1-12.
+
+### FUNDING:
+
+Programme Samuel-De-Champlain (FRQNT)
