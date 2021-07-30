@@ -19,16 +19,16 @@ All algorithms will be implemented and released as free and open-source software
 
 
 
-Principal Investigator:
+### Principal Investigator:
 
 Nadia Tahiri (University of Sherbrooke)
 
 
-Related publication:
+### Related publication:
 
 Kuitche, E; Qi, Y; Tahiri, N; Parmer, J; Ouangraoua, A. (2020). DoubleRecViz: A Web-Based Tool for Visualizing Transcript-Gene-Species reconciliation. Bioinformatics
 
-FUNDING:
+### FUNDING:
 
 Programme MITACS Accelerate
 
