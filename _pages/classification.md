@@ -6,7 +6,6 @@ sitemap: false
 permalink: /classification/
 ---
 
-# Research 
 
 ## [Building alternative consensus trees and supertrees]({{ site.url }}{{ site.baseurl }}/classification)
 
