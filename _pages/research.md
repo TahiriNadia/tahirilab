@@ -36,7 +36,7 @@ permalink: /research/
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
 
 
-## [Data and software]({{ site.url }}{{ site.baseurl }}/software)
+### [Data and software]({{ site.url }}{{ site.baseurl }}/software)
 *Developing new tools is often necessary to address new questions. Our team develops statistical and mathematical approaches, implements them and releases them as open-source software to ensure reproducibility and reliability of analyses.*
 
 
