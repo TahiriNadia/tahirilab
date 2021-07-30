@@ -32,6 +32,9 @@ permalink: /research/
 </div>-->
 
 
+### [Exploring the patterns of evolution]({{ site.url }}{{ site.baseurl }}/Example)
+*Horizontal gene transfer and recombination are widespread reticulate evolutionary processes contributing to the diversity of bacteria and viruses, allowing them to overcome selective pressure and to adapt to new environments.*
+
 ### Phylogeography: Evolution and climat
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
 
