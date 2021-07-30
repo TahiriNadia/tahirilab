@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research 
 
-### Building alternative consensus trees and supertrees
+### [Building alternative consensus trees and supertrees]({{ site.url }}{{ site.baseurl }}/classification)
 
 *Consensus tree and supertree inference methods synthesize collections of gene phylogenetic trees into comprehensive trees that preserve main topological features present in the input gene trees and include all taxa present in them.*
    
