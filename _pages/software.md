@@ -6,8 +6,6 @@ sitemap: false
 permalink: /software/
 ---
 
-# Research 
-
 ## Data and software
 *Developing new tools is often necessary to address new questions. Our team develops statistical and mathematical approaches, implements them and releases them as open-source software to ensure reproducibility and reliability of analyses.*
 
