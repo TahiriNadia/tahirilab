@@ -38,6 +38,8 @@ permalink: /research/
 
 ## [Data and software]({{ site.url }}{{ site.baseurl }}/software)
 *Developing new tools is often necessary to address new questions. Our team develops statistical and mathematical approaches, implements them and releases them as open-source software to ensure reproducibility and reliability of analyses.*
+
+
 <!--
 ### Intelligent shopping list
 *A grocery list is an integral part of the shopping experience of many consumers. Several mobile retail studies of grocery apps indicate that potential customers place the highest priority on features that help them to create and manage personalized shopping lists.*
