@@ -6,12 +6,14 @@ author_profile: true
 sitemap: false
 permalink: /
 ---
+<br/>
 <div align="center">
 Nadia Tahiri, PhD<br/>
 Assistant Professor, Computer Science<br/>
 University of Sherbrooke<br/>
 </div>
 
+<br/>
 We are a dynamic research group at the [Sherbrooke University, Department of Computer Science](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
 Through engaged scholarship, our laboratory develops transdisciplinary research projects to analyze the evolution of species and assess the impacts on health by combining, among other things, information from the genetics of species and climatic parameters.
