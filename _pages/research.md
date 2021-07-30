@@ -32,7 +32,7 @@ permalink: /research/
 </div>-->
 
 
-### [Exploring the patterns of evolution]({{ site.url }}{{ site.baseurl }}/Example)
+### [Exploring the patterns of evolution]({{ site.url }}{{ site.baseurl }}/example)
 *Horizontal gene transfer and recombination are widespread reticulate evolutionary processes contributing to the diversity of bacteria and viruses, allowing them to overcome selective pressure and to adapt to new environments.*
 
 ### Phylogeography: Evolution and climat
