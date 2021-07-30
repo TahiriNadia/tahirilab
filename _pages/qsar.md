@@ -31,5 +31,6 @@ Tahiri, N; Lévêque, L; Goldsmith, MR; Verner, MA. (2021).Quantitative Structur
 ### FUNDING:
 
 Fonds de recherche du Québec - santé (FRQS)
+
 Programme Samuel-De-Champlain (FRQNT)
 
