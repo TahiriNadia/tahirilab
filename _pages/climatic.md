@@ -15,7 +15,6 @@ The geographic distribution of species is always interesting to ecologists. n th
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pipelinePhylogeo.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
   Source : Tahiri, N; Badran, N; Dion-Phénix, H; Meniaï, I; Makarenkov, V. (2017) <br>
-  <sup>\#</sup>Contributed equally
 </div>
 
 ### Principal Investigator:
