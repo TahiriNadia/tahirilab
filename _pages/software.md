@@ -23,6 +23,8 @@ All algorithms will be implemented and released as free and open-source software
 
 ### Principal Investigator:
 
+Aïda Ouangraoua (University of Sherbrooke)
+
 Nadia Tahiri (University of Sherbrooke)
 
 
