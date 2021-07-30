@@ -6,6 +6,11 @@ author_profile: true
 sitemap: false
 permalink: /
 ---
+<div align="center">
+Nadia Tahiri, PhD<br/>
+Assistant Professor, Computer Science<br/>
+University of Sherbrooke<br/>
+</div>
 
 We are a dynamic research group at the [Sherbrooke University, Department of Computer Science](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
