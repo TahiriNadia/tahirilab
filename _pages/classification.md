@@ -33,4 +33,4 @@ Tahiri, N; Willems, M; Makarenkov, V. (2018). A new fast method for inferring mu
 
 ### FUNDING:
 
-Programme Samuel-De-Champlain (FRQNT)
+Fonds de recherche du Québec - Nature et Technologie (FRQNT)
