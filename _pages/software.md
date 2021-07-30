@@ -17,6 +17,10 @@ We propose to develop user-friendly software for visualizing the classification 
 
 All algorithms will be implemented and released as free and open-source software to make analyses reproducible and reliable. We plan to implement the programs for the Macintosh, UNIX, and Windows platforms.
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/DoubleRecViz_2.png" class="img-responsive" width="100%" style="float: center" />
+<div style="text-align: right">
+  Source : Kuitche, E; Qi, Y; Tahiri, N; Parmer, J; Ouangraoua, A. (2020) <br>
+</div>
 
 
 ### Principal Investigator:
