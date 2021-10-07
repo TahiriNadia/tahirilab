@@ -7,7 +7,7 @@
 
 # Site settings
 title: The Tahiri Lab
-email: nadia.tahiri@gmail.com
+email: Nadia.Tahiri@USherbrooke.ca
 description: > 
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -37,7 +37,7 @@ author:
   location         : "Montreal, Canada."
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=cOfpZhEAAAAJ"
-  email            : "nadia.tahiri@gmail.com"
+  email            : "Nadia.Tahiri@USherbrooke.ca"
   uri              :
   bitbucket        :
   codepen          :
