@@ -11,23 +11,24 @@
   #education3: Master of Science in Professional Communications, Clark University, Worcester, USA (2011)
   #education4: Master of Science in Physics and Mathematics Education, Astrakhan State University, Astrakhan, Russia (2010)
   
-- name: Andrew Veriga
-  photo: Andrew_Veriga.jpg
-  info: Head of Machine Learning Department and PhD Student in Computer Science
-  email: andrew.veriga@gmail.com
-  number_educ: 3
-  education1: PhD of Computer Science and Machine Learning, Astrakhan State University, Astrakhan, Russia
-  education2: Novel Convolutional Neural Network approach for building multiple trees classification
-  education3: Collaboration with <a href="https://asu.edu.ru/staff/373-1-morozov-boris-borisovich.html">Pr. Boris Morozov</a>
+
+#- name: Andrew Veriga
+#  photo: Andrew_Veriga.jpg
+#  info: Head of Machine Learning Department and PhD Student in Computer Science
+#  email: andrew.veriga@gmail.com
+#  number_educ: 3
+#  education1: PhD of Computer Science and Machine Learning, Astrakhan State University, Astrakhan, Russia
+#  education2: Novel Convolutional Neural Network approach for building multiple trees classification
+#  education3: Collaboration with <a href="https://asu.edu.ru/staff/373-1-morozov-boris-borisovich.html">Pr. Boris Morozov</a>
   
 
-- name: Mouhamadou Moustapha Mbaye
-  photo: Mouhamadou_Moustapha_Mbaye.jpg
-  info: PhD Student in Computer Science (Université Alioune Diop De Bambey - Sénégal et Unversité de Sherbrooke - Canada)
-  email: m3moustapha@gmail.com
-  number_educ: 3
-  education1: MSc in Computer Science, University of Québec at Montreal
-  education2: Conception de systèmes d’informations fiables pour les hôpitaux du Sénégal
-  education3: Collaboration with <a href="https://scholar.google.com/citations?user=nhdaBf8AAAAJ&hl=fr">Pr. Abdourahime Gaye</a>
+#- name: Mouhamadou Moustapha Mbaye
+#  photo: Mouhamadou_Moustapha_Mbaye.jpg
+#  info: PhD Student in Computer Science (Université Alioune Diop De Bambey - Sénégal et Unversité de Sherbrooke - Canada)
+#  email: m3moustapha@gmail.com
+#  number_educ: 3
+#  education1: MSc in Computer Science, University of Québec at Montreal
+#  education2: Conception de systèmes d’informations fiables pour les hôpitaux du Sénégal
+#  education3: Collaboration with <a href="https://scholar.google.com/citations?user=nhdaBf8AAAAJ&hl=fr">Pr. Abdourahime Gaye</a>
   
 
