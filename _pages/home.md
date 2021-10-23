@@ -68,10 +68,11 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
 
 # MISSION 
 
+<!-- 
 The mission of our lab is to develop projects in partnership with communities living in a changing environment to assess the impacts of anthropogenic pressures on health and well-being. To investigate these associations, we are using an ecosystem approach combining information from multiple levels of biological organization. Anthropogenic pressures lead to rapid and significant changes in the environment, posing a threat to public health especially for vulnerable populations. Several studies confirm that some communities are disproportionately affected by environmental changes. Many of these communities have expressed concerns about the potential health effects of changes in their environment, but few have received support and guidance from researchers in implementing research projects based on their concerns. 
 
 Our lab highlights community knowledge as a valuable source of information in order to explore the relationships between environmental factors and health. We use an innovative participatory approach combining toxicology, molecular biology, community-based research, exposure assessment, epidemiology and environmental health.
-
+-->
 
 # RESEARCH INTERESTS
 
