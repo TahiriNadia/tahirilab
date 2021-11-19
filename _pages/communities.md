@@ -11,9 +11,6 @@ permalink: /communities
 <div class="col-sm-4 clearfix">
       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_gdg.png" class="img-responsive" width="21%" style="padding: 7px; float: left" />
       
-  </div>
-  
-  <div class="col-sm-8">
     
 Our research center is interested in the effects of the environment on biodiversity. In order to understand how the environment affects biodiversity, it is necessary to apply integrative principles. The strength of our center therefore involves the development of a multidisciplinary vision necessary to develop tools for the analysis and management of biodiversity in a changing environmental context. The majority of students and researchers at our Centre use long-term ecological monitoring to understand how spatio-temporal variations in the environment affect the species that live there.
 
