@@ -31,10 +31,11 @@ To learn more about the CREUS program, visit [http://cret-recherche.weebly.com/m
   <br />
   <br />
   <br />
+  <p>
   GDG Cloud Sherbrooke is a community for those who use, want to use and are interested in the Google Cloud Platform (GCP). This Meetup will be for folks who live in or are visiting Sherbrooke (QC) who are interested in technologies available on the Google Cloud Platform.
   
   To learn more about the GDG program, visit [https://gdg.community.dev/gdg-cloud-sherbrooke/](https://gdg.community.dev/gdg-cloud-sherbrooke/)
-
+  </p>
 </div>
 
 <br />
