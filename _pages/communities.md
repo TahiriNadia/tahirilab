@@ -9,7 +9,7 @@ permalink: /communities
 # Le Centre de recherche en écologie de l'UdeS (CREUS) 
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="41%" style="padding: 7px; float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="51%" style="padding: 7px; float: left" />
   <br />
 Our research center is interested in the effects of the environment on biodiversity. In order to understand how the environment affects biodiversity, it is necessary to apply integrative principles. The strength of our center therefore involves the development of a multidisciplinary vision necessary to develop tools for the analysis and management of biodiversity in a changing environmental context. The majority of students and researchers at our Centre use long-term ecological monitoring to understand how spatio-temporal variations in the environment affect the species that live there.
   
@@ -17,6 +17,9 @@ To learn more about the CREUS program, visit [http://cret-recherche.weebly.com/m
 
 </div>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
