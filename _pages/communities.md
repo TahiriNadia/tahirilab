@@ -9,7 +9,7 @@ permalink: /communities
 # GDG Cloud Sherbrooke 
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.png" class="img-responsive" width="21%" style="padding: 7px; float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="21%" style="padding: 7px; float: left" />
   <br />
   <br />
   <br />
