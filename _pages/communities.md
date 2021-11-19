@@ -10,7 +10,7 @@ permalink: /communities
 
 <div class="row clearfix">
   
-      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="41%" style="padding: 7px; float: left" /></img>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="41%" style="padding: 7px; float: left" />
   
   <div class="col-sm-8">
     
