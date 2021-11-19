@@ -9,6 +9,9 @@ permalink: /communities
 # Le Centre de recherche en écologie de l'UdeS (CREUS) 
 
 <div class="col-sm-12 clearfix">
+   <br />
+  <br />
+  <br />
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_creus.jpg" class="img-responsive" width="21%" style="padding: 7px; float: left" />
   <br />
   <br />
