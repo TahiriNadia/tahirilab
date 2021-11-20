@@ -19,11 +19,12 @@ permalink: /communities
 
 .left {
   width: 25%;
-  vertical-align: middle;
+  text-align: center;
 }
 
 .right {
   width: 75%;
+  text-align: center;
 }
 
 /* Clear floats after the columns */
