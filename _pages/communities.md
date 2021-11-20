@@ -36,8 +36,6 @@ permalink: /communities
  .frame {
     height: 25px;      /* equals max image height */
     width: 160px;
-    border: 1px solid red;
-    white-space: nowrap;
     
     text-align: center; margin: 1em 0;
 }
@@ -49,7 +47,6 @@ permalink: /communities
 }
 
 img {
-    background: #3A6F9A;
     vertical-align: middle;
     max-height: 25px;
     max-width: 160px;
