@@ -15,7 +15,6 @@ permalink: /communities
 .column {
   float: left;
   padding: 2px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left {
