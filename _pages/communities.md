@@ -19,7 +19,7 @@ permalink: /communities
 
 .left {
   width: 25%;
-  text-align: center;
+  position:absolute;
 }
 
 .right {
