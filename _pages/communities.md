@@ -20,6 +20,11 @@ permalink: /communities
 
 .left {
   width: 25%;
+  display: table-cell;
+  height: 300px;
+  text-align: center;
+  width: 300px;
+  vertical-align: middle;
 }
 
 .right {
