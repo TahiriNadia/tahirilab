@@ -14,7 +14,7 @@ permalink: /communities
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+  padding: 2px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
