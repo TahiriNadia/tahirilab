@@ -95,7 +95,9 @@ To learn more about the CREUS program, visit [http://cret-recherche.weebly.com/m
 
 <div class="row clearfix">
   <div class="column left">
+    <div class=frame>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_WTM.png" class="img-responsive" width="50%" style="padding: 3px; float: middle" />
+    </div>
    </div>
   <div class="column right">
   Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. This program has been in over 200 global events and seen across 52 countries.
