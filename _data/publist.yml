@@ -28,6 +28,16 @@
   highlight: 1
   news2:
   
+- title: "DoubleRecViz: A Web-Based Tool for Visualizing Transcript-Gene-Species reconciliation"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Esaie Kuitche, Yanchun Qi, Nadia Tahiri, Jack Parmer, and Aïda Ouangraoua
+  link:
+    url: 
+    display: Bioinformatics. 37(13): 1920-1922
+  highlight: 1
+  news2:
+  
 - title: "A new fast method for inferring multiple consensus trees using k-medoids"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
