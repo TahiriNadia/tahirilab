@@ -13,6 +13,7 @@ permalink: /publications/
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=cOfpZhEAAAAJ&hl=en), [ResearcherID](https://publons.com/researcher/4408378/nadia-tahiri/), [researchgate](https://www.researchgate.net/profile/Nadia-Tahiri))
 
+<!--
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -50,6 +51,7 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
+-->
 
 
 ## Full List
