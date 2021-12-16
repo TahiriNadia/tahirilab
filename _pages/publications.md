@@ -56,6 +56,8 @@ permalink: /publications/
 
 ## Full List
 
+### Journal Articles
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
