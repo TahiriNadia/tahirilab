@@ -1,3 +1,13 @@
+- title: "Building alternative consensus trees and supertrees using kmeans and Robinson and Foulds distance"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Nadia Tahiri, Bernard Fichet, and Vladimir Makarenkov
+  link:
+    url: https://www.researchgate.net/publication/356424232_Building_alternative_consensus_trees_and_supertrees_using_k-means_and_RF_distance
+    display: Submitted to PLOS Computational Biology
+  highlight: 1
+  news2:
+  
 - title: "Predicting Breast Milk:Serum Partitioning Using QSAR Models"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
@@ -38,9 +48,4 @@
     display: BMC evolutionary biology, 18(1), 1-12
   highlight: 1
   news2:
-  
-
-
-
-
 
