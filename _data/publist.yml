@@ -58,15 +58,7 @@
   highlight: 1
   news2:
   
-- title: "Building explicit hybridization networks using the maximum likelihood and Neighbor-Joining approaches"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Matthieu Willems, Nadia Tahiri, and Vladimir Makarenkov
-  link:
-    url: https://www.researchgate.net/publication/332403481_Building_explicit_hybridization_networks_using_the_maximum_likelihood_and_Neighbor-Joining_approaches
-    display: Archives of Data Science, Series A. 4(1): 1-17
-  highlight: 1
-  news2:
+
 
 
 
