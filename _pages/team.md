@@ -73,6 +73,21 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
   <li style="list-style: none;"> {{ member.fellow3 }} </li>
   {% endif %}
 
+    
+  {% if member.number_fellow == 4 %}
+  <li style="list-style: none;"> {{ member.fellow1 }} </li>
+  <li style="list-style: none;"> {{ member.fellow2 }} </li>
+  <li style="list-style: none;"> {{ member.fellow3 }} </li>
+  <li style="list-style: none;"> {{ member.fellow4 }} </li>
+  {% endif %}
+    
+  {% if member.number_fellow == 5 %}
+  <li style="list-style: none;"> {{ member.fellow1 }} </li>
+  <li style="list-style: none;"> {{ member.fellow2 }} </li>
+  <li style="list-style: none;"> {{ member.fellow3 }} </li>
+  <li style="list-style: none;"> {{ member.fellow4 }} </li>
+  <li style="list-style: none;"> {{ member.fellow5 }} </li>
+  {% endif %}
   </ul>
 </div>
 
