@@ -5,8 +5,17 @@ excerpt: "Tahiri Lab -- Teaching"
 permalink: /teaching/
 ---
 
+## Assistant Professor
+I am a professor for the following courses:
+
+
+  1. **Université de Sherbrooke** 
+      - IFT 187  - Éléments de bases de données (2021)
+      - BIN 710  - Forage de données pour la bio-informatique (2022)
+      - IFT 870  - Forage de données (2022)
+
 ## Lecture
-I was / am a lecture for the following courses:
+I was a lecture for the following courses:
 
 
   1. **École de technologie supérieure** 
@@ -29,11 +38,12 @@ I was / am a lecture for the following courses:
      <br />
  
   3. **Université de Montréal**
-      - MSN 6146 - Toxicologie prédictive - Modélisation structure à activité (QSAR) (2020)  
+      - MSN 6146 - Toxicologie prédictive - Modélisation structure à activité (QSAR) (2020-2021)  
 
       <br />
 
 ## Teaching assistant
+I was a teaching assistant for the following courses:
 
   1. **École de technologie supérieure**
       - INF 130 - Ordinateurs et programmation (2020)
