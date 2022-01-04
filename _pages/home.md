@@ -85,17 +85,17 @@ Our lab highlights community knowledge as a valuable source of information in or
 
 # RESEARCH INTERESTS
 
+  - Bioinformatics
+  - Evolutionary biology
   - Phylogeny
   - Evolution
-  - QSAR
-  - Machine Learning
-  - Deep Learning
+  - Phylogeography
+  - Quantitative structure-activity relationship (QSAR)
   - Classification
-  - Toxicology
-  - Molecular Biology
-  - Environmental Health
-  - Public Health
+  - Clustering
+  - Algorithms
 
+Bioinformatique. Biologie Évolutive. Phylogéographie. Classification. Algorithmique. Phylogénie. Relation quantitative de structure-activité (RQSA).
 
 # ACKNOWLEDGEMENTS
 
