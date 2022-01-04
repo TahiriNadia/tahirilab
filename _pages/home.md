@@ -15,6 +15,7 @@ University of Sherbrooke<br/>
 
 <br/>
 🌐 <a href="https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/nadia-tahiri">Institutional page</a>
+<br/>
 🌐 <a href="https://www.usherbrooke.ca/informatique/recherche/interets-et-projets-de-recherche-des-professeurs#acc-7866-1806">Research page</a>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
