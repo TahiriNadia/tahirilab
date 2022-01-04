@@ -95,8 +95,6 @@ Our lab highlights community knowledge as a valuable source of information in or
   - Clustering
   - Algorithms
 
-Bioinformatique. Biologie Évolutive. Phylogéographie. Classification. Algorithmique. Phylogénie. Relation quantitative de structure-activité (RQSA).
-
 # ACKNOWLEDGEMENTS
 
 We are grateful for funding from Sherbrooke University.
