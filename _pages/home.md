@@ -67,6 +67,14 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
+-------------------------------
+
+Question : Si vous aviez quelques mots à transmettre à des filles et à des femmes pour les motiver à faire carrière en sciences, que leur raconteriez-vous? 
+
+ 
+
+Réponse de Nadia : Les disciplines n'ont pas de genre et la science ne fait pas exception à cette règle. Je ne vise pas nécessairement à encourager les filles ou les femmes à se lancer dans les sciences si ce n'est pas dans leurs intérêts, mais d'abord à souligner l'importance de l'équité, de la diversité et de l'inclusion dans les sciences. Aussi, comme informaticienne, je vois un danger potentiel à ne pas inclure les femmes de manière plus significative dans la révolution numérique. L'apport des femmes à des disciplines émergentes comme l'intelligence artificielle (IA) pourra marquer de façon significative certains modèles qui pourront peut-être alors se développer dans une perspective plus inclusive à l'égard des femmes et des minorités. 
+
 
 # MISSION 
 Nadia Tahiri is particularly interested in establishing the mathematical and statistical foundations for solving the challenging problem of phylogenetic tree classification, and in creating a new open-source platform for biologists to use our new methods. We will define new optimization criteria for the construction of multiple alternative consensus trees and supertrees using clustering algorithms and several important phylogenetic tree metrics. We propose the following three main thrusts to create a computational framework for studying the evolutionary history of genes: (1) the development of new efficient algorithms to classify and construct a plausible set of multiple alternative consensus trees and supertrees characterizing the available data, (2) the exploration of evolutionary patterns of Aminoacyl-tRNA synthetases, and (3) the design and implementation of a new opensource software platform containing all of the algorithms developed in our research lab as well as real and simulated data.
