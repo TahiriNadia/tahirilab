@@ -22,3 +22,17 @@
   email: wanlinli2018@gmail.com 
   number_educ: 1
   education1: Développement d'outils de visualisation interactif du SARS-COVID-19
+  
+- name: Fadi Abu Salem
+  photo: Fadi_AbuSalem.png
+  info: Master student (University of Sherbrooke)
+  email: fadi.abusalem@usherbrooke.ca
+  number_educ: 1
+  education1: A new software for phylogeographic tree analysis and its application to evolutionary data of invasive species
+  
+- name: Simon Lalonde
+  photo: Simon_Lalonde.jpg
+  info: Master student (University of Sherbrooke)
+  email: simon.lalonde2@usherbrooke.ca
+  number_educ: 1
+  education1: Développement d’un nouvel algorithme de modélisation de l'influence des paramètres climatiques et géographiques sur la structuration génétique de populations de plantes productrices de café
