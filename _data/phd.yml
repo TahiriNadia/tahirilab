@@ -2,11 +2,11 @@
   photo: Alexandr_Koshkarov.jpg
   info: PhD Candidate in Computer Science
   email: aleksandr.koshkarov@usherbrooke.ca
-  number_educ: 4
+  number_educ: 1
   education1: Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa
-  education2: Candidate of Science in Technical Sciences (2013), Astrakhan State University, Astrakhan, Russia
-  education3: MSc in Data Science (2017), The University of Sheffield, Sheffield, United Kingdom
-  education4: MSc in Physics and Mathematics Education (2010), Astrakhan State University, Astrakhan, Russia
+  #education2: Candidate of Science in Technical Sciences (2013), Astrakhan State University, Astrakhan, Russia
+  #education3: MSc in Data Science (2017), The University of Sheffield, Sheffield, United Kingdom
+  #education4: MSc in Physics and Mathematics Education (2010), Astrakhan State University, Astrakhan, Russia
   #education3: Master of Science in Professional Communications, Clark University, Worcester, USA (2011)
   
   number_fellow: 2
