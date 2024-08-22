@@ -1,3 +1,11 @@
+- title: "Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa: A review"
+  authors: Wanlin Li, Aleksandr Koshkarov, and Nadia Tahiri
+  link:
+    url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.70054
+    display: Ecology and Evolution, 14(8), e70054
+  highlight: 1
+  news2:
+
 - title: "Predicting Breast Milk:Serum Partitioning Using QSAR Models"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
