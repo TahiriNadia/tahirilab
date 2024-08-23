@@ -6,85 +6,106 @@
   highlight: 1
   news2:
 
-- title: "Predicting Breast Milk:Serum Partitioning Using QSAR Models"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Satori A. Marchitti; Marc-André Verner, Nadia Tahiri, Caleb Dillingham, Daniel Chang, Judy S. LaKind, Erin Hines, Suzanne Fenton, John F. Kennek, and Michael-Rock Goldsmith 
+- title: "Host-Virus Cophylogenetic Trajectories: Investigating Molecular Relationships between Coronaviruses and Bat Hosts"
+  authors: Wanlin Li and Nadia Tahiri (2024)
   link:
-    url: 
-    display: In progress
+    url: https://www.mdpi.com/1999-4915/16/7/1133
+    display: Viruses, 16(7)
   highlight: 1
   news2:
-  
-- title: "Building alternative consensus trees and supertrees using kmeans and Robinson and Foulds distance"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Nadia Tahiri, Bernard Fichet, and Vladimir Makarenkov
-  link:
-    url: https://www.researchgate.net/publication/356424232_Building_alternative_consensus_trees_and_supertrees_using_k-means_and_RF_distance
-    display: Submitted to PLOS Computational Biology
-  highlight: 1
-  news2:
-  
-- title: "Invariant transformers of Robinson-Foulds distance matrices for convolutional neural network"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Nadia Tahiri, Andrey Veriga, Aleksandr Koshkarov, and Boris Morozov
-  link:
-    url: https://www.researchgate.net/publication/356424232_Building_alternative_consensus_trees_and_supertrees_using_k-means_and_RF_distance
-    display: Submitted to Journal of Bioinformatics and Computational Biology
-  highlight: 1
-  news2:
-  
 
-- title: "Quantitative Structure-Activity Relationship (QSAR) Modeling to Predict the Transfer of Environmental Chemicals across the Placenta"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Laura Lévêque, Nadia Tahiri, Michael-Rock Goldsmith, and Marc-André Verner
+- title: "Novel Algorithm for Comparing Phylogenetic Trees with Different but Overlapping Taxa"
+  authors: Aleksandr Koshkarov and Nadia Tahiri (2024)
+  link:
+    url: https://www.mdpi.com/2073-8994/16/7/790
+    display: Symmetry, 16(7)
+  highlight: 1
+  news2:
+
+- title: "GPTree Cluster: phylogenetic tree cluster generator in the context of supertree inference"
+  authors: Aleksandr Koshkarov and Nadia Tahiri (2023)
+  link:
+    url: https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad023/7068823
+    display: Bioinformatics Advances, 3(1)
+  highlight: 1
+  news2:
+
+- title: "Intelligent personalized shoppingrecommendation using clustering andsupervised machine learning algorithms"
+  authors: Nail Chabane, Achraf Bouaoune, Reda Tighilt, Moloud Abdar, Alix Boc, Étienne Lord, Nadia Tahiri, Bogdan Mazoure, Rajendra Acharya, and Vladimir Makarenkov (2022)
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278364
+    display: PloS ONE, 17(12)
+  highlight: 1
+  news2:
+
+- title: "Invariant transformers of Robinson and Foulds distance matrices for Convolutional Neural Network"
+  authors: Nadia Tahiri, Andrey Veriga, Aleksandr Koshkarov, and Boris Morozov (2022)
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35798684/
+    display: Journal of Bioinformatics and Computational Biology, 20(4)
+  highlight: 1
+  news2:
+
+- title: "Building alternative consensus trees and supertrees using k-means and Robinson and Foulds distance"
+  authors: Nadia Tahiri, Bernard Fichet, and Vladimiri Makarenkov (2022)
+  link:
+    url: https://academic.oup.com/bioinformatics/article/38/13/3367/6586801
+    display: Bioinformatics, 38(13)
+  highlight: 1
+  news2:
+
+- title: "Quantitative structure-activity relationship (QSAR) modeling to predict the transfer of environmental chemicals across the placenta"
+  authors: Laura Lévêque, Nadia Tahiri, Michael-Rock Goldsmith, and Marc-André Verner (2022)
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2468111321000578
-    display: Computational Toxicology, Accepted (the first two authors are equal contributors and listed in alphabetical order)
+    display: Computational Toxicology, Volume 21
   highlight: 1
   news2:
 
-- title: "DoubleRecViz: A Web-Based Tool for Visualizing Transcript-Gene-Species reconciliation"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Esaie Kuitche, Yanchun Qi, Nadia Tahiri, Jack Parmer, and Aïda Ouangraoua
+- title: "DoubleRecViz: a web-based tool for visualizing transcript–gene–species tree reconciliation"
+  authors: Esaie Kuitche, Yanchun Qi, Nadia Tahiri, Jack Parmer, and Aïda Ouangraoua (2021)
   link:
-    url: 
-    display: Bioinformatics, 37(13), 1920-1922
+    url: https://academic.oup.com/bioinformatics/article/37/13/1920/5922814
+    display: Bioinformatics, 37(13)
   highlight: 1
   news2:
-  
+
+- title: "A deep learning approach for building multiple trees classification"
+  authors: Nadia Tahiri (2019)
+  link:
+    url: https://www.biorxiv.org/content/biorxiv/early/2019/10/05/781252.full.pdf
+    display: bioRxiv
+  highlight: 1
+  news2:
+
 - title: "A new fast method for inferring multiple consensus trees using k-medoids"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Nadia Tahiri, Matthieu Willems, and Vladimir Makarenkov
+  authors: Nadia Tahiri, Matthieu Willems, and Vladimir Makarenkov (2018)
   link:
     url: https://link.springer.com/article/10.1186/s12862-018-1163-8
-    display: BMC evolutionary biology, 18(1), 1-12
-  highlight: 1
-  news2:
-  
-- title: "Building explicit hybridization networks using the maximum likelihood and Neighbor-Joining approaches"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Matthieu Willems, Nadia Tahiri, and Vladimir Makarenkov
-  link:
-    url: https://www.researchgate.net/publication/332403481_Building_explicit_hybridization_networks_using_the_maximum_likelihood_and_Neighbor-Joining_approaches
-    display: Archives of Data Science, Series A. 4(1), 1-17
+    display: BMC Evolutionary Biology, 18(48)
   highlight: 1
   news2:
 
+- title: "Building explicit hybridization networks using the maximum likelihood and Neighbor-Joining approaches"
+  authors: Matthieu Willems, Nadia Tahiri, and Vladimir Makarenkov (2018)
+  link:
+    url: https://www.researchgate.net/profile/Vladimir-Makarenkov/publication/332403481_Building_explicit_hybridization_networks_using_the_maximum_likelihood_and_Neighbor-Joining_approaches/links/5d2785d0299bf1547cad2d79/Building-explicit-hybridization-networks-using-the-maximum-likelihood-and-Neighbor-Joining-approaches.pdf
+    display: Archives of Data Science, 4(1)
+  highlight: 1
+  news2:
+
+- title: "A new fast method for detecting and validating horizontal gene transfer events using phylogenetic trees and aggregation functions"
+  authors: Dunarel Badescu, Nadia Tahiri, and Vladimir Makarenkov (2015)
+  link:
+    url: https://www.researchgate.net/profile/Vladimir-Makarenkov/publication/305551979_A_New_Fast_Method_for_Detecting_and_Validating_Horizontal_Gene_Transfer_Events_Using_Phylogenetic_Trees_and_Aggregation_Functions/links/5a3c1d5c0f7e9b10e23bb9e2/A-New-Fast-Method-for-Detecting-and-Validating-Horizontal-Gene-Transfer-Events-Using-Phylogenetic-Trees-and-Aggregation-Functions.pdf
+    display: Pattern Recognition in Computational Molecular Biology: Techniques and Approaches
+  highlight: 1
+  news2:
 
 - title: "A new efficient algorithm for inferring explicit hybridization networks following the Neighbor-Joining principle"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Matthieu Willems, Nadia Tahiri, and Vladimir Makarenkov
+  authors: Matthieu Willems, Nadia Tahiri, and Vladimir Makarenkov (2014)
   link:
-    url: https://www.researchgate.net/publication/265648138_A_new_efficient_algorithm_for_inferring_explicit_hybridization_networks_following_the_Neighbor-Joining_principle
-    display: Journal of Bioinformatics and Computational Biology, 12(5), 1450024
+    url: https://www.researchgate.net/profile/Vladimir-Makarenkov/publication/265648138_A_new_efficient_algorithm_for_inferring_explicit_hybridization_networks_following_the_Neighbor-Joining_principle/links/56c4c2c708ae7fd4625a4555/A-new-efficient-algorithm-for-inferring-explicit-hybridization-networks-following-the-Neighbor-Joining-principle.pdf
+    display: Journal of bioinformatics and computational biology, 12(5)
   highlight: 1
   news2:
-
