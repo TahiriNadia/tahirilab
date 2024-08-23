@@ -1,12 +1,105 @@
-- title: "Predicting Breast Milk:Serum Partitioning Using QSAR Models"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Satori A. Marchitti; Marc-André Verner, Nadia Tahiri, Caleb Dillingham, Daniel Chang, Judy S. LaKind, Erin Hines, Suzanne Fenton, John F. Kennek, and Michael-Rock Goldsmith 
+- title: "phyDBSCAN: phylogenetic tree density-based spatial clustering of applications with noise and automatically estimated hyperparameters"
+  authors: Nadia Tahiri (2024)
   link:
     url: 
-    display: In progress
+    display: International Federation of Classification Societies, 1(18)
   highlight: 1
   news2:
-  
 
+- title: "A new metric to classify B cell lineage tree"
+  authors: Nadia Tahiri (2024)
+  link:
+    url: https://eventos.cimpa.ucr.ac.cr/index.php/IFCS/IFCS24/paper/view/571
+    display: International Federation of Classification Societies, 1(18)
+  highlight: 1
+  news2:
 
+- title: "Finding Maximum Common Contractions Between Phylogenetic Networks"
+  authors: Bertrand Marchand, Nadia Tahiri, Olivier Tremblay-Savard, and Manuel Lafond (2024)
+  link:
+    url: https://arxiv.org/pdf/2405.16713
+    display: arXiv preprint arXiv:2405.16713
+  highlight: 1
+  news2:
+
+- title: "A new algorithm for building comprehensive consensus tree"
+  authors: Md Habibur Rahman Sifat and Nadia Tahiri (2024)
+  link:
+    url: https://www.researchgate.net/profile/Mdhabibur-Sifat/publication/376853932_A_new_algorithm_for_building_comprehensive_consensus_tree/links/658c84862468df72d3dd5bb6/A-new-algorithm-for-building-comprehensive-consensus-tree.pdf
+    display: AAAI Graphs and more Complex Structures For Learning and Reasoning (GCLR)
+  highlight: 1
+  news2:
+
+- title: "A new machine learning workflow to create an optimal waiting list in hospitals"
+  authors: Mouhamadou Moustapha Mbaye, Fadi MH Abu Salem, and Nadia Tahiri (2023)
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3608298.3608328
+    display: Proceedings of the 2023 7th International Conference on Medical and Health Informatics
+  highlight: 1
+  news2:
+
+- title: "GPTree: Generator of Phylogenetic Trees with Overlapping and Biological Events for Supertree Inference"
+  authors: Aleksandr Koshkarov and Nadia Tahiri (2023)
+  link:
+    url: https://www.scitepress.org/PublishedPapers/2023/116971/116971.pdf
+    display: 16th International Joint Conference on Biomedical Engineering Systems and Technologies
+  highlight: 1
+  news2:
+
+- title: "aPhyloGeo-Covid: A web interface for reproducible phylogeographic analysis of SARS-CoV-2 variation using Neo4j and Snakemake"
+  authors: Wanlin Li and Nadia Tahiri (2023)
+  link:
+    url: http://conference.scipy.org.s3.amazonaws.com/proceedings/scipy2023/pdfs/nadia_tahiri.pdf
+    display: Proceedings of the 22nd Python in Science Conference
+  highlight: 1
+  news2:
+
+- title: "Using Clustering and Machine Learning Methods to Provide Intelligent Grocery Shopping Recommendations"
+  authors: Nail Chabane, Mohamed Achraf Bouaoune, Reda Amir Sofiane Tighilt, Bogdan Mazoure, Nadia Tahiri, and Vladimir Makarenkov (2022)
+  link:
+    url: https://library.oapen.org/bitstream/handle/20.500.12657/86098/1/978-3-031-09034-9.pdf#page=91
+    display: Conference of the International Federation of Classification Societies
+  highlight: 1
+  news2:
+
+- title: "Phylogeography: Analysis of genetic and climatic data of SARS-CoV-2"
+  authors: Aleksandr Koshkarov, Wanlin Li, My-Linh Luu, and Nadia Tahiri (2022)
+  link:
+    url: https://www.researchgate.net/profile/Nadia-Tahiri/publication/361973016_Phylogeography_Analysis_of_genetic_and_climatic_data_of_SARS-CoV-2/links/62cf3aa0f9f1d0161315c3f6/Phylogeography-Analysis-of-genetic-and-climatic-data-of-SARS-CoV-2.pdf
+    display: Proceedings of the 21st Python in Science Conference
+  highlight: 1
+  news2:
+
+- title: "A novel effective ensemble model for early detection of coronary artery disease"
+  authors: Zahia Aouabed, Moloud Abdar, Nadia Tahiri, Jaël Champagne Gareau, and Vladimir Makarenkov (2020)
+  link:
+    url: https://www.researchgate.net/profile/Vladimir-Makarenkov/publication/337701197_A_Novel_Effective_Ensemble_Model_for_Early_Detection_of_Coronary_Artery_Disease/links/5e40740c92851c7f7f2bbe28/A-Novel-Effective-Ensemble-Model-for-Early-Detection-of-Coronary-Artery-Disease.pdf
+    display: Innovation in Information Systems and Technologies to Support Learning Research: Proceedings of EMENA-ISTL 2019 3
+  highlight: 1
+  news2:
+
+- title: "An intelligent shopping list based on the application of partitioning and machine learning algorithms"
+  authors: Naida Tahiri, Bogdan Mazoure, and Vladimir Makarenkov (2019)
+  link:
+    url: https://pdfs.semanticscholar.org/c0ad/206553908fef6da4b31ad2ca1b7958769076.pdf
+    display: SciPy-2019
+  highlight: 1
+  news2:
+
+- title: "A median-based consensus rule for distance exponent selection in the framework of intelligent and weighted Minkowski clustering"
+  authors: Renato Cordeiro de Amorim, Nadia Tahiri, Boris Mirkin, and Vladimir Makarenkov (2017)
+  link:
+    url: https://www.researchgate.net/profile/Renato-Amorim/publication/318203054_A_Median-Based_Consensus_Rule_for_Distance_Exponent_Selection_in_the_Framework_of_Intelligent_and_Weighted_Minkowski_Clustering/links/59d75781aca27213dfa4fb94/A-Median-Based-Consensus-Rule-for-Distance-Exponent-Selection-in-the-Framework-of-Intelligent-and-Weighted-Minkowski-Clustering.pdf
+    display: Data Science: Innovative Developments in Data Analysis and Clustering
+  highlight: 1
+  news2:
+
+#- title: "Predicting Breast Milk:Serum Partitioning Using QSAR Models"
+#  image: TBG_SL.png
+#  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+#  authors: Satori A. Marchitti; Marc-André Verner, Nadia Tahiri, Caleb Dillingham, Daniel Chang, Judy S. LaKind, Erin Hines, Suzanne Fenton, John F. Kennek, and Michael-Rock Goldsmith 
+#  link:
+#    url: 
+#    display: In progress
+#  highlight: 1
+#  news2:
