@@ -1,4 +1,6 @@
 - title: "Inferring multiple consensus trees and supertrees using clustering: A review"
+  image: 
+  description: 
   authors: Vladimir Makarenkov, Gayane S Barseghyan, and Nadia Tahiri (2023)
   link:
     url: https://arxiv.org/pdf/2301.00483
@@ -7,6 +9,8 @@
   news2:
 
 - title: "New metrics for classifying phylogenetic trees using 𝒌-means and the symmetric difference metric"
+  image: 
+  description:
   authors: Nadia Tahiri and Aleksandr Koshkarov (2023)
   link:
     url: https://library.oapen.org/bitstream/handle/20.500.12657/86098/1/978-3-031-09034-9.pdf#page=363
@@ -23,5 +27,3 @@
     display: In progress
   highlight: 1
   news2:
-
-
