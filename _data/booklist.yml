@@ -1,10 +1,18 @@
+- title: "Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa: A review"
+  authors: Wanlin Li, Aleksandr Koshkarov, and Nadia Tahiri
+  link:
+    url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.70054
+    display: Ecology and Evolution, 14(8), e70054
+  highlight: 1
+  news2:
+
 - title: "Inferring multiple consensus trees and supertrees using clustering: A review"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Vladimir Makarenkov, Gayane S Barseghyan, and Nadia Tahiri (2023)
   link:
     url: https://arxiv.org/pdf/2301.00483
-    display: Data Analysis and Optimization: In Honor of Boris Mirkin 80th Birthday, pp. 191-213
+    display: Data Analysis and Optimization: In Honor of Boris Mirkin's 80th Birthday, pp. 191-213
   highlight: 1
   news2:
 
