@@ -23,12 +23,19 @@
   number_educ: 1
   education1: Développement d'outils de visualisation interactif du SARS-COVID-19
   
-- name: Fadi Abu Salem
-  photo: Fadi_AbuSalem.png
+- name: Caroline Fortier
+  photo: Caroline_Fortier.jpg
   info: Master student (University of Sherbrooke)
-  email: fadi.abusalem@usherbrooke.ca
+  email: caroline.fortier6@usherbrooke.ca
   number_educ: 1
-  education1: A new software for phylogeographic tree analysis and its application to evolutionary data of invasive species
+  education1: 
+
+#- name: Fadi Abu Salem
+#  photo: Fadi_AbuSalem.png
+#  info: Master student (University of Sherbrooke)
+#  email: fadi.abusalem@usherbrooke.ca
+#  number_educ: 1
+#  education1: A new software for phylogeographic tree analysis and its application to evolutionary data of invasive species
   
 - name: Simon Lalonde
   photo: Simon_Lalonde.jpg
