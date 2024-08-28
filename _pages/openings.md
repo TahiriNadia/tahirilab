@@ -25,7 +25,7 @@ If you are interested in joining our team as a PhD student or postdoc, please se
 
 
 ### Master's projects for Sherbrooke University students
-If you are a Master's student at Sherbrooke University seeking a Master's project, contact me (or any group member) per email or stop by my office.
+If you are a Master's student at Sherbrooke University seeking a Master's project, contact me (or any group member) via  email or stop by my office (D4-2002).
 
 ### Bsc / Master's students from elsewhere
-If you are interested in pursuing a Master's degree at Sherbrooke University, see [usherbrooke.ca](https://www.usherbrooke.ca/). Sometimes, we take master's students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+If you are interested in pursuing a Master's degree at Sherbrooke University, see [usherbrooke.ca](https://www.usherbrooke.ca/admission/). Sometimes, we take master's students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
