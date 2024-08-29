@@ -10,7 +10,7 @@
 
 - name: Soumia Melek
   photo: Soumia_Melek.jpeg
-  info: Master student (University of Quebec at Montreal)
+  info: Master's student (University of Quebec at Montreal)
   email: melek.soumia@courrier.uqam.ca
   number_educ: 2
   education1: Un nouvel algorithme pour sélectionner les descripteurs utilisés par les modèles prédictifs des relations quantitatives structure-activité (RQSA).
@@ -18,14 +18,14 @@
 
 - name: Mahsa Farnia
   photo: Mahsa_Farnia.jpg
-  info: Master student (University of Sherbrooke)
+  info: Master's student (University of Sherbrooke)
   email: mahsa.farnia@usherbrooke.ca
   number_educ: 1
   education1: A novel generalized metric for comparing B cell lineage trees
   
 - name: Caroline Fortier
   photo: Caroline_Fortier.jpg
-  info: Master student (University of Sherbrooke)
+  info: Master's student (University of Sherbrooke)
   email: caroline.fortier6@usherbrooke.ca
   number_educ: 1
  # education1: 
@@ -39,7 +39,7 @@
   
 - name: Simon Lalonde
   photo: Simon_Lalonde.jpg
-  info: Master student (University of Sherbrooke)
+  info: Master's student (University of Sherbrooke)
   email: simon.lalonde2@usherbrooke.ca
   number_educ: 1
   education1: Développement d’un nouvel algorithme de modélisation de l'influence des paramètres climatiques et géographiques sur la structuration génétique de populations de plantes productrices de café
