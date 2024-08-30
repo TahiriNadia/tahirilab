@@ -239,7 +239,7 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
 </div>
 {% endif %} 
 
-## Master Students
+## Master's Students
 *****
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
@@ -419,14 +419,14 @@ Jump to [Principal Investigator](#principal-investigator), [Collaborators](#coll
 </div>
   
 <div class="col-sm-3 clearfix">
-<h4>Master students</h4>
+<h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-3 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Bachelor's Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
