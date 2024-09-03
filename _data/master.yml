@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Soumia Melek
-  photo: Soumia_Melek.jpeg
+  photo: Soumia_Melek1.jpg
   info: Master's student (University of Quebec at Montreal)
   email: melek.soumia@courrier.uqam.ca
   number_educ: 2
@@ -17,14 +17,14 @@
   education2: Collaboration with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html">Pr. Vladimir Makarenkov</a>
 
 - name: Mahsa Farnia
-  photo: Mahsa_Farnia.jpg
+  photo: Mahsa_Farnia1.jpg
   info: Master's student (University of Sherbrooke)
   email: mahsa.farnia@usherbrooke.ca
   number_educ: 1
   education1: A novel generalized metric for comparing B cell lineage trees
   
 - name: Caroline Fortier
-  photo: Caroline_Fortier.jpg
+  photo: Caroline_Fortier1.jpg
   info: Master's student (University of Sherbrooke)
   email: caroline.fortier6@usherbrooke.ca
   number_educ: 1
@@ -38,7 +38,7 @@
 #  education1: A new software for phylogeographic tree analysis and its application to evolutionary data of invasive species
   
 - name: Simon Lalonde
-  photo: Simon_Lalonde.jpg
+  photo: Simon_Lalonde1.jpg
   info: Master's student (University of Sherbrooke)
   email: simon.lalonde2@usherbrooke.ca
   number_educ: 1
