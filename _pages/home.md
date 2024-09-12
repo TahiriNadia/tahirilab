@@ -60,9 +60,9 @@ University of Sherbrooke<br/>
   </a>
 </div>
 
-We are a dynamic research group at the [Sherbrooke University, Department of Computer Science](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
+We are a dynamic research group within [the Department of Computer Science at the University of Sherbrooke](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
-Through engaged scholarship, our laboratory develops transdisciplinary research projects to analyze the evolution of species and assess the impacts on health by combining, among other things, information from the genetics of species and climatic parameters.
+Our lab focuses on transdisciplinary research aimed at understanding species evolution. By developing advanced metrics and algorithms for phylogenetic and lineage trees, we analyze genetic information in conjunction with climatic and other ecological parameters to reveal deeper insights into evolutionary processes.
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
@@ -70,9 +70,18 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
 -------------------------------
 
 # MISSION 
+The research of Professor Nadia Tahiri focuses on establishing robust mathematical and statistical foundations to address the complex problem of phylogenetic tree classification and clustering. She is also dedicated to developing an open-source platform for biologists, enabling them to apply these cutting-edge methods. This work involves defining new optimization criteria for constructing multiple alternative consensus and supertrees using clustering algorithms and key phylogenetic tree metrics.
+
+Our lab research is centered around three key objectives to build a computational framework for studying gene evolution:
+1. **Development of efficient algorithms** to classify and construct a set of plausible alternative consensus and supertrees that accurately represent the data.
+2. **Investigation of evolutionary patterns** in Aminoacyl-tRNA synthetases to uncover deeper biological insights.
+3. **Design and implementation of an open-source software platform** that will contain all algorithms developed in our lab, alongside both real and simulated datasets.
+
+The long-term goal of our lab is to create an innovative, systematic, and automated approach for reconstructing diverse scenarios of genetic evolution in species groups affected by reticulate evolutionary events. This research will significantly contribute to the inference of alternative subtrees within the tree of life, providing valuable insights into the biodiversity and evolutionary relationships of all living organisms.
+<!-- 
 Professor Nadia Tahiri is particularly interested in establishing the mathematical and statistical foundations for solving the challenging problem of phylogenetic tree classification and clustering, and in creating a new open-source platform for biologists to use our new methods. We will define new optimization criteria for the construction of multiple alternative consensus trees and supertrees using clustering algorithms and several important phylogenetic tree metrics. We propose the following three main thrusts to create a computational framework for studying the evolutionary history of genes: (1) the development of new efficient algorithms to classify and construct a plausible set of multiple alternative consensus trees and supertrees characterizing the available data, (2) the exploration of evolutionary patterns of Aminoacyl-tRNA synthetases, and (3) the design and implementation of a new opensource software platform containing all of the algorithms developed in our research lab as well as real and simulated data.
 
-The long-term goal of our research lab is to develop an innovative systematic and automated approach to reconstruct different scenarios of genetic evolution of different species groups affected by reticulate evolutionary events. For example, our research will contribute to the inference of multiple alternative subtrees of the tree of life that gathers key information about the biodiversity and evolutionary relationships of all living organisms.
+The long-term goal of our research lab is to develop an innovative systematic and automated approach to reconstruct different scenarios of genetic evolution of different species groups affected by reticulate evolutionary events. For example, our research will contribute to the inference of multiple alternative subtrees of the tree of life that gathers key information about the biodiversity and evolutionary relationships of all living organisms.-->
 <hr>
 
 <!-- 
