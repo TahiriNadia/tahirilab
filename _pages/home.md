@@ -69,21 +69,11 @@ Through engaged scholarship, our laboratory develops transdisciplinary research 
 
 -------------------------------
 
-Question : Si vous aviez quelques mots à transmettre à des filles et à des femmes pour les motiver à faire carrière en sciences, que leur raconteriez-vous? 
-
- 
-
-Réponse de Nadia : Les disciplines n'ont pas de genre et la science ne fait pas exception à cette règle. Je ne vise pas nécessairement à encourager les filles ou les femmes à se lancer dans les sciences si ce n'est pas dans leurs intérêts, mais d'abord à souligner l'importance de l'équité, de la diversité et de l'inclusion dans les sciences. Aussi, comme informaticienne, je vois un danger potentiel à ne pas inclure les femmes de manière plus significative dans la révolution numérique. L'apport des femmes à des disciplines émergentes comme l'intelligence artificielle (IA) pourra marquer de façon significative certains modèles qui pourront peut-être alors se développer dans une perspective plus inclusive à l'égard des femmes et des minorités. 
-
-
 # MISSION 
-Nadia Tahiri is particularly interested in establishing the mathematical and statistical foundations for solving the challenging problem of phylogenetic tree classification, and in creating a new open-source platform for biologists to use our new methods. We will define new optimization criteria for the construction of multiple alternative consensus trees and supertrees using clustering algorithms and several important phylogenetic tree metrics. We propose the following three main thrusts to create a computational framework for studying the evolutionary history of genes: (1) the development of new efficient algorithms to classify and construct a plausible set of multiple alternative consensus trees and supertrees characterizing the available data, (2) the exploration of evolutionary patterns of Aminoacyl-tRNA synthetases, and (3) the design and implementation of a new opensource software platform containing all of the algorithms developed in our research lab as well as real and simulated data.
+Professor Nadia Tahiri is particularly interested in establishing the mathematical and statistical foundations for solving the challenging problem of phylogenetic tree classification and clustering, and in creating a new open-source platform for biologists to use our new methods. We will define new optimization criteria for the construction of multiple alternative consensus trees and supertrees using clustering algorithms and several important phylogenetic tree metrics. We propose the following three main thrusts to create a computational framework for studying the evolutionary history of genes: (1) the development of new efficient algorithms to classify and construct a plausible set of multiple alternative consensus trees and supertrees characterizing the available data, (2) the exploration of evolutionary patterns of Aminoacyl-tRNA synthetases, and (3) the design and implementation of a new opensource software platform containing all of the algorithms developed in our research lab as well as real and simulated data.
 
 The long-term goal of our research lab is to develop an innovative systematic and automated approach to reconstruct different scenarios of genetic evolution of different species groups affected by reticulate evolutionary events. For example, our research will contribute to the inference of multiple alternative subtrees of the tree of life that gathers key information about the biodiversity and evolutionary relationships of all living organisms.
 <hr>
-Nadia Tahiri s’intéresse particulièrement à établir les bases mathématiques et statistiques pour résoudre le problème difficile de la classification d’arbres phylogénétiques, et de créer une nouvelle plateforme open-source permettant aux biologistes d'utiliser nos nouvelles méthodes. Nous définirons de nouveaux critères d'optimisation pour la construction de plusieurs arbres consensus alternatifs et de super-arbres en utilisant des algorithmes de clustering et plusieurs métriques d'arbres phylogénétiques importantes. Nous proposons les trois axes principaux suivants pour créer un cadre informatique permettant d'étudier l'histoire évolutive des gènes : (1) le développement de nouveaux algorithmes efficaces pour classifier et construire un ensemble plausible d'arbres de consensus alternatifs multiples et de superarbres caractérisant les données disponibles, (2) l'exploration des modèles d'évolution des Aminoacyl-tRNA synthétases, et (3) la conception et l'implémentation d'une nouvelle plateforme logicielle opensource contenant tous les algorithmes développés dans le cadre de notre laboratoire de recherche ainsi que les données réelles et simulées.
-
-L'objectif à long terme de notre laboratoire de recherche est de développer une approche systématique et automatisée innovante pour reconstruire différents scénarios d'évolution génétique de différents groupes d'espèces affectés par des événements évolutifs réticulés. Par exemple, nos travaux de recherche contribueront à l'inférence de multiples sous-arbres alternatifs de l'arbre de vie qui rassemble les informations clés sur la biodiversité et les relations évolutives de tous les organismes vivants.
 
 <!-- 
 The mission of our lab is to develop projects in partnership with communities living in a changing environment to assess the impacts of anthropogenic pressures on health and well-being. To investigate these associations, we are using an ecosystem approach combining information from multiple levels of biological organization. Anthropogenic pressures lead to rapid and significant changes in the environment, posing a threat to public health especially for vulnerable populations. Several studies confirm that some communities are disproportionately affected by environmental changes. Many of these communities have expressed concerns about the potential health effects of changes in their environment, but few have received support and guidance from researchers in implementing research projects based on their concerns. 
@@ -98,14 +88,13 @@ Our lab highlights community knowledge as a valuable source of information in or
   - Phylogeny
   - Evolution
   - Phylogeography
-  - Quantitative structure-activity relationship (QSAR)
   - Classification
   - Clustering
   - Algorithms
 
 # ACKNOWLEDGEMENTS
 
-We are grateful for funding from Sherbrooke University.
+We are grateful for funding from the University of Sherbrooke, the Fonds de recherche du Québec – Nature et technologies (FRQNT), and the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 210px">
