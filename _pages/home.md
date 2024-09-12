@@ -78,11 +78,6 @@ Our lab research is centered around three key objectives to build a computationa
 3. **Design and implementation of an open-source software platform** that will contain all algorithms developed in our lab, alongside both real and simulated datasets.
 
 The long-term goal of our lab is to create an innovative, systematic, and automated approach for reconstructing diverse scenarios of genetic evolution in species groups affected by reticulate evolutionary events. This research will significantly contribute to the inference of alternative subtrees within the tree of life, providing valuable insights into the biodiversity and evolutionary relationships of all living organisms.
-<!-- 
-Professor Nadia Tahiri is particularly interested in establishing the mathematical and statistical foundations for solving the challenging problem of phylogenetic tree classification and clustering, and in creating a new open-source platform for biologists to use our new methods. We will define new optimization criteria for the construction of multiple alternative consensus trees and supertrees using clustering algorithms and several important phylogenetic tree metrics. We propose the following three main thrusts to create a computational framework for studying the evolutionary history of genes: (1) the development of new efficient algorithms to classify and construct a plausible set of multiple alternative consensus trees and supertrees characterizing the available data, (2) the exploration of evolutionary patterns of Aminoacyl-tRNA synthetases, and (3) the design and implementation of a new opensource software platform containing all of the algorithms developed in our research lab as well as real and simulated data.
-
-The long-term goal of our research lab is to develop an innovative systematic and automated approach to reconstruct different scenarios of genetic evolution of different species groups affected by reticulate evolutionary events. For example, our research will contribute to the inference of multiple alternative subtrees of the tree of life that gathers key information about the biodiversity and evolutionary relationships of all living organisms.
--->
 <hr>
 
 <!-- 
@@ -108,4 +103,6 @@ We are grateful for funding from the University of Sherbrooke, the Fonds de rech
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 210px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/frq_logo.png">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc_logo.png">
 </figure>
