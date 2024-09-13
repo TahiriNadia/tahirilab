@@ -10,12 +10,12 @@ I am a professor for the following courses:
 
 
   1. **Université de Sherbrooke** 
-      - BIN 710  - Forage de données pour la bio-informatique (2022)
-      - IFT 870  - Forage de données (2022)
-      - IFT 187  - Éléments de bases de données (2021)
+      - BIN 710  - Forage de données pour la bio-informatique (2022, 2024)
+      - IFT 870  - Forage de données (2022, 2024)
+      - IFT 187  - Éléments de bases de données (2021-2024)
 
 ## Lecture
-I was a lecture for the following courses:
+I was a lecturer for the following courses:
 
 
   1. **École de technologie supérieure** 
