@@ -8,13 +8,13 @@ permalink: /climatic/
 
 
 ## Phylogeography: Evolution and climat
-*The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
+*The genetic and demographic processes, especially speciation, that have shaped the geographic distribution and current structuring of populations, along with paleographic factors, are particularly valuable for predicting emerging viral pathogens.*
 
-The geographic distribution of species is always interesting to ecologists. n this project, we present a new algorithm for analyzing the information content of multiple sequence alignments in relation to geographic distribution. This algorithm is based on sliding window procedure and distance of Robinson and Foulds to identify protein regions that are specific to carnivore species to adapt to the environment.
+The geographic distribution of species is of great interest to ecologists. In this project, we introduce a novel algorithm designed to analyze the information content of multiple sequence alignments in relation to geographic distribution. This algorithm employs a sliding window approach and utilizes the Robinson-Foulds distance to identify protein regions that are specific to carnivorous species, allowing them to adapt to their environment.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pipelinePhylogeo.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
-  Source : Tahiri, N; Badran, N; Dion-Phénix, H; Meniaï, I; Makarenkov, V. (2017) <br>
+  Source : <a href="https://github.com/tahiri-lab/aPhyloGeo/">aPhyloGeo on GitHub</a> <br>
 </div>
 
 ### Principal Investigator:
@@ -24,7 +24,13 @@ Nadia Tahiri (University of Sherbrooke)
 
 ### Related publication:
 
-Tahiri, N; Badran, N; Dion-Phénix, H; Meniaï, I; Makarenkov, V. (2017).Un nouvel algorithme pour l'analyse d’arbres phylogéographiques, Poster, 85e ACFAS.
+Li, W. & Tahiri, N. (2024). Host-Virus Cophylogeny Trajectories: Investigating Molecular Relationships between Coronaviruses and Bat Hosts. Preprint researchsquare
+
+Li, W. & Tahiri, N. (2023). aPhyloGeo-Covid: A Web Interface for Reproducible Phylogeographic Analysis of SARS-CoV-2 Variation using Neo4j and Snakemake. Proceeding in SciPy 2023, Auxtin, TX, USA
+
+Koshkarov, A., Li, W., Luu, M. L., & Tahiri, N. (2022). Phylogeography: Analysis of genetic and climatic data of SARS-CoV-2. Proceeding in SciPy 2022, Auxtin, TX, USA
+
+Tahiri, N., Badran, N., Dion-Phénix, H., Meniaï, I., & Makarenkov, V. (2017). Un nouvel algorithme pour l'analyse d’arbres phylogéographiques, Poster, 85e ACFAS.
 
 ### FUNDING:
 
