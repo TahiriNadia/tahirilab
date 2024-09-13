@@ -10,9 +10,13 @@ I am a professor for the following courses:
 
 
   1. **Université de Sherbrooke** 
+      - BIN 702  - Algorithmes pour la bio-informatique (2024)
       - BIN 710  - Forage de données pour la bio-informatique (2022, 2024)
-      - IFT 870  - Forage de données (2022, 2024)
       - IFT 187  - Éléments de bases de données (2021-2024)
+      - IFT 287  - Exploitation de BD relationnelles et OO (2024)
+      - IFT 436  - Algorithmes et structures de données (2024)
+      - IFT 769  - Sujets choisis en informatique théorique (2024)
+      
 
 ## Lecture
 I was a lecturer for the following courses:
