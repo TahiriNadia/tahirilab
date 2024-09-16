@@ -7,7 +7,7 @@ permalink: /metrics/
 ---
 
 
-## Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa]({{ site.url }}{{ site.baseurl }}/metrics)
+## [Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa]({{ site.url }}{{ site.baseurl }}/metrics)
 
 *Development of distance metrics for comparing phylogenetic trees defined on different but mutually overlapping sets of taxa, in the context of supertrees.*
    
