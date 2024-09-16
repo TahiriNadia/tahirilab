@@ -22,7 +22,7 @@ permalink: /research/
 
 ### [II. Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa]({{ site.url }}{{ site.baseurl }}/metrics)
 
-*Development of distance metrics for comparing phylogenetic trees defined on different but mutually overlapping sets of taxa, in the context of supertrees*
+*Development of distance metrics for comparing phylogenetic trees defined on different but mutually overlapping sets of taxa, in the context of supertrees.*
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pipelineQSAR.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
@@ -31,8 +31,8 @@ permalink: /research/
 </div>-->
 
 
-### [III. Exploring the patterns of evolution]({{ site.url }}{{ site.baseurl }}/example)
-*Horizontal gene transfer and recombination are widespread reticulate evolutionary processes contributing to the diversity of bacteria and viruses, allowing them to overcome selective pressure and to adapt to new environments.*
+### [III. Metrics for comparing lineage trees]({{ site.url }}{{ site.baseurl }}/lineage)
+*Developing innovative computational methods to advance the understanding of the human immune system.*
 
 ### [IV. Phylogeography: Evolution and climat]({{ site.url }}{{ site.baseurl }}/climatic)
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
