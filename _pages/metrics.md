@@ -30,6 +30,6 @@ TBD
 
 ### FUNDING:
 
-The University of Sherbrooke grant
-Fonds de recherche du Québec – Nature et technologies (FRQNT)
-Natural Sciences and Engineering Research Council of Canada (NSERC)
+- The University of Sherbrooke grant
+- Fonds de recherche du Québec – Nature et technologies (FRQNT)
+- Natural Sciences and Engineering Research Council of Canada (NSERC)
