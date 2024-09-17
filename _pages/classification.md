@@ -15,7 +15,7 @@ Consensus tree and supertree inference methods synthesize collections of gene ph
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/COVID19.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
-  Source : Tahiri, Fichet, and Makarenkov (2021) <br>
+  Source : Tahiri, Fichet, and Makarenkov (2022) <br>
 </div> 
 
 
@@ -24,11 +24,17 @@ Consensus tree and supertree inference methods synthesize collections of gene ph
 Nadia Tahiri (University of Sherbrooke)
 
 
-### Related publication:
+### Related publications:
 
-Tahiri, N; Fichet, B; Makarenkov, V. (2021). Building alternative consensus trees and supertrees using kmeans and Robinson and Foulds distance. Systematic Biology, submitted.
+- Sifat, M. H. R., & Tahiri, N. (2024). A new algorithm for building comprehensive consensus tree.
 
-Tahiri, N; Willems, M; Makarenkov, V. (2018). A new fast method for inferring multiple consensus trees using k-medoids. BMC evolutionary biology. 18(48): 1-12.
+- Makarenkov, V., Barseghyan, G. S., & Tahiri, N. (2023). Inferring multiple consensus trees and supertrees using clustering: A review. Data Analysis and Optimization: In Honor of Boris Mirkin's 80th Birthday, 191-213.
+
+- Tahiri, N., & Koshkarov, A. (2022, July). New Metrics for Classifying Phylogenetic Trees Using K-means and the Symmetric Difference Metric. In Conference of the International Federation of Classification Societies (pp. 383-391). Cham: Springer International Publishing.
+
+- Tahiri, N., Fichet, B., & Makarenkov, V. (2022). Building alternative consensus trees and supertrees using k-means and Robinson and Foulds distance. Bioinformatics, 38(13), 3367-3376.
+
+- Tahiri, N; Willems, M; Makarenkov, V. (2018). A new fast method for inferring multiple consensus trees using k-medoids. BMC evolutionary biology. 18(48): 1-12.
 
 ### FUNDING:
 
