@@ -11,7 +11,8 @@ permalink: /lineage/
 
 *Developing innovative computational methods to advance the understanding of the human immune system.*
    
-TBD
+The B cell lineage tree captures the intricate stages of B cell differentiation and maturation, starting from hematopoietic stem cells and progressing to mature, antibody-secreting cells in the immune system. From a mathematical perspective, this process can be represented as an evolutionary tree, where each node signifies a unique stage in B cell development, and the edges trace the differentiation pathways. A central focus of this research project is the development of an innovative metric for the comparative analysis of lineage trees. This metric employs a rigorous mathematical framework to quantify temporal changes in lineage attributes, thereby enhancing the precision of comparative assessments. In addition, the project encompasses the refinement of a classification algorithm designed to systematically categorize lineage trees based on their structural characteristics.
+By advancing the accuracy of both comparative analysis and classification, this research contributes to the creation of predictive models crucial for the advancement of targeted immunotherapies and vaccines.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/lineage_tree.png" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
