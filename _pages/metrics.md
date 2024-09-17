@@ -15,7 +15,7 @@ Comparing phylogenetic trees is a prominent problem widely used in applications 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/metrics.svg" class="img-responsive" width="100%" style="float: center" />
 <div style="text-align: right">
-  Source : Koshkarov & Tahiri (2024) <br>
+  Source: Koshkarov & Tahiri (2024) <br>
 </div> 
 
 
@@ -24,7 +24,7 @@ Comparing phylogenetic trees is a prominent problem widely used in applications 
 Nadia Tahiri (University of Sherbrooke)
 
 
-### Related publication:
+### Related publications:
 
 TBD
 
