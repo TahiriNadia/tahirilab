@@ -26,7 +26,13 @@ Nadia Tahiri (University of Sherbrooke)
 
 ### Related publications:
 
-TBD
+- Koshkarov, A., & Tahiri, N. (2024). Novel Algorithm for Comparing Phylogenetic Trees with Different but Overlapping Taxa. Symmetry, 16(7), 790.
+
+- Li, W., Koshkarov, A., & Tahiri, N. (2024). Comparison of phylogenetic trees defined on different but mutually overlapping sets of taxa: A review. Ecology and Evolution, 14(8), e70054.
+
+- Koshkarov, A., & Tahiri, N. (2023). GPTree Cluster: phylogenetic tree cluster generator in the context of supertree inference. Bioinformatics Advances, 3(1), vbad023.
+
+- Koshkarov, A., & Tahiri, N. (2023). GPTree: Generator of Phylogenetic Trees with Overlapping and Biological Events for Supertree Inference. In BIOINFORMATICS (pp. 212-219).
 
 ### FUNDING:
 
