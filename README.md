@@ -1,4 +1,4 @@
-<h2  align="center"> 🌐 Tahiri Lab Website 🌳</h2>
+<h2  align="center"> 🌐 Welcome to Tahiri Lab Website 🌳</h2>
 
 This is the repository for the **Tahiri Lab** website, built using **Jekyll** and hosted on **GitHub Pages**. The site serves as an online presence for the lab, showcasing our research, projects, and achievements.
 
