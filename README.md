@@ -25,4 +25,7 @@ You can explore the website here: [Tahiri Lab Website](https://tahirinadia.githu
 
 ## 🤝 Contribute and Collaborate
 
-At Tahiri Lab, we are always excited to collaborate with fellow researchers, developers, and contributors who share our passion for advancing research and innovation. Whether you have ideas for enhancing our website or you're interested in joining forces on research projects, we welcome your input! Contact us at **Nadia.Tahiri@USherbrooke.ca** — we look forward to working together to create something impactful.
+At Tahiri Lab, we are always excited to collaborate with fellow researchers, developers, and contributors who share our passion for advancing research and innovation. Whether you have ideas for enhancing our website or you're interested in joining forces on research projects, we welcome your input! We look forward to working together to create something impactful.
+
+## 📧 Contact
+Please email us at: <Nadia.Tahiri@USherbrooke.ca> for any questions or feedback.
