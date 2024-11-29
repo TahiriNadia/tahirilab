@@ -6,33 +6,85 @@ sitemap: false
 permalink: /software/
 ---
 
-## Data and software
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 2px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  
+</style>
+
+
+# Data and software
+<div style="text-align: justify">
 *Developing new tools is often necessary to address new questions. Our team develops statistical and mathematical approaches, implements them and releases them as open-source software to ensure reproducibility and reliability of analyses.*
-
-We will develop interactive software to implement our new algorithms and make them available on the web. The newly developed software will be accompanied by a user guide as well as few examples of technical applications, including the one covered in the second section. The software will significantly contribute to the discovery of groups of gene trees having similar intragroup and intergroup evolutionary histories.
-
-We propose to develop user-friendly software for visualizing the classification of phylogenetic trees that will become an essential tool for evolutionary and molecular biologists.
-
 All algorithms will be implemented and released as free and open-source software to make analyses reproducible and reliable. We plan to implement the programs for the Macintosh, UNIX, and Windows platforms.
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/DoubleRecViz_2.png" class="img-responsive" width="100%" style="float: center" />
-<div style="text-align: right">
-  Source : Kuitche, E; Qi, Y; Tahiri, N; Parmer, J; Ouangraoua, A. (2020) <br>
 </div>
 
+<div class="row clearfix">
+  <div class="column left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/DoubleRecViz_2.png" class="img-responsive" width="90%" style="padding: 3px; float: middle" />
+  </div>
 
-### Principal Investigator:
+<div class="column right" style="text-align: justify">
+  Our research center is interested in the effects of the environment on biodiversity. In order to understand how the environment affects biodiversity, it is necessary to apply integrative principles. The strength of our center therefore involves the development of a multidisciplinary vision necessary to develop tools for the analysis and management of biodiversity in a changing environmental context. The majority of students and researchers at our Centre use long-term ecological monitoring to understand how spatio-temporal variations in the environment affect the species that live there.
+</div>
 
-Aïda Ouangraoua (University of Sherbrooke)
+</div>
 
-Nadia Tahiri (University of Sherbrooke)
+<hr>
 
+### **aPhyloGeo**: A Bioinformatics Pipeline for Phylogenetic and Geographic Analysis
 
-### Related publication:
+<div class="row clearfix">
+  <div class="column left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/workflow_en.png" class="img-responsive" width="90%" style="padding: 3px; float: middle" />
+  </div>
+  <div class="column right" style="text-align: justify">
+  aPhyloGeo is a command-line Python library designed for researchers to analyze the intricate relationships between genetic variations in viruses and geographical features, including climate data. This tool is particularly valuable for phylogeographic studies, which aim to understand how genetic diversity is distributed across different spatial scales. By leveraging aPhyloGeo, researchers can gain deeper insights into the evolutionary processes that shape genetic diversity and how these processes are influenced by environmental factors. The library's robust capabilities facilitate comprehensive analyses, making it an indispensable resource for advancing our understanding of the complex interplay between genetics and geography.
 
-Kuitche, E; Qi, Y; Tahiri, N; Parmer, J; Ouangraoua, A. (2020). DoubleRecViz: A Web-Based Tool for Visualizing Transcript-Gene-Species reconciliation. Bioinformatics
+  To learn more about aPhyloGeo, visit the [https://github.com/tahiri-lab/aPhyloGeo](https://github.com/tahiri-lab/aPhyloGeo) or the [https://pypi.org/project/aPhyloGeo/](https://pypi.org/project/aPhyloGeo/).
+  </div>
+</div>
 
-### FUNDING:
+**Keywords:** Phylogeography, Genetic variations, climate data, Python library, Command-Line Interface, Data Processing
 
-Programme MITACS Accelerate
+<hr>
 
+### **iPhyloGeo++**: An Interactive Desktop Application for Comprehensive Phylogeographic Analysis
+
+<div class="row clearfix">
+  <div class="column left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_decoupe.png" class="img-responsive" width="90%" style="padding: 3px; float: middle" />
+  </div>
+<div class="column right" style="text-align: justify;">
+iPhyloGeo++ is a user-friendly desktop application designed to enhance the accessibility of phylogeographic analysis, building upon the robust capabilities of its predecessor, aPhyloGeo. The "i" in iPhyloGeo++ signifies its interactive nature, which aims to simplify complex analyses for a wider audience, including researchers, educators, and students. This application provides an intuitive graphical interface that allows users to visualize and interpret phylogeographic data without requiring extensive programming knowledge. By integrating advanced analytical tools with an easy-to-use interface, iPhyloGeo++ empowers users to conduct comprehensive phylogeographic studies more efficiently and effectively. 
+
+To learn more about iPhyloGeo++, visit the [https://github.com/tahiri-lab/iPhyloGeo_plus_plus](https://github.com/tahiri-lab/iPhyloGeo_plus_plus).
+</div>
+</div>
+
+**Keywords:** Interactive tool, Desktop application, Genetic analysis, Biodiversity, 
+User-Friendly Interface, Phylogeographic Analysis,
+
+<hr>
