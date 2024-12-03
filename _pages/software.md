@@ -75,7 +75,7 @@ permalink: /software/
 
 <div class="row clearfix">
   <div class="column left">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_decoupe.png" class="img-responsive" width="90%" style="padding: 3px; float: middle; margin-top: 62px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_decoupe.png" class="img-responsive" width="90%" style="padding: 3px; float: middle; margin-top: 62px;" />
   </div>
   <div class="column right">
 iPhyloGeo++ is a user-friendly cross-platform desktop application designed to enhance the accessibility of phylogeographic analysis, building upon the robust capabilities of its predecessor, aPhyloGeo. The "i" in iPhyloGeo++ signifies its interactive nature, which aims to simplify complex analyses for a wider audience, including researchers, educators, and students. This application provides an intuitive graphical interface that allows users to visualize and interpret phylogeographic data without requiring extensive programming knowledge. By integrating advanced analytical tools with an easy-to-use interface, iPhyloGeo++ empowers users to conduct comprehensive phylogeographic studies more efficiently and effectively.
