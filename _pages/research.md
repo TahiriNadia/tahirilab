@@ -37,12 +37,13 @@ permalink: /research/
 ### [IV. Phylogeography: Evolution and climat]({{ site.url }}{{ site.baseurl }}/climatic)
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
 
+<!--
 
 ### [V. Data and software]({{ site.url }}{{ site.baseurl }}/software)
 *Developing new tools is often necessary to address new questions. Our team develops statistical and mathematical approaches, implements them and releases them as open-source software to ensure reproducibility and reliability of analyses.*
 
 
-<!--
+
 ### Intelligent shopping list
 *A grocery list is an integral part of the shopping experience of many consumers. Several mobile retail studies of grocery apps indicate that potential customers place the highest priority on features that help them to create and manage personalized shopping lists.*
 -->
