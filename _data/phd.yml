@@ -12,6 +12,15 @@
   number_fellow: 2
   fellow1: 🏆 NSERC Doctoral fellow (CGS-D)
   fellow2: 🏆 Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke
+
+
+- name: Anna Artiges
+  photo: rock.jpg
+  info: PhD Candidate in Computer Science
+  email: anna.artiges@usherbrooke.ca
+  number_educ: 1
+  education1: in progress
+
   
 #- name: Mouhamadou Moustapha Mbaye
 #  photo: Mouhamadou_Moustapha_Mbaye.jpg
