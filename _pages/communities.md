@@ -49,6 +49,23 @@ To learn more about the CREUS program, visit [http://cret-recherche.weebly.com/m
 
 <hr>
 
+# Quebec Centre for Biodiversity Sciences
+
+<div class="row clearfix">
+  <div class="column left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CSBQ_QCBS_logo.svg" class="img-responsive" width="90%" style="padding: 3px; float: middle" />
+  </div>
+  <div class="column right">
+In 2025, the network connects more than 116 researchers, 542 graduate students and postdoctoral fellows, as well as many undergraduate students and numerous national and international partners.
+
+The objective of the QCBS is to support the development and application of biodiversity science through collaboration, training and partnership. Our research is fostering the discovery, study, and sustainable use of biodiversity in Quebec, Canada and around the world.
+
+
+To learn more about the QCBS program, visit [https://qcbs.ca/co-researchers/](https://qcbs.ca/co-researchers/)
+</div>
+</div>
+
+<hr>
 
 # GDG Cloud Sherbrooke 
 
