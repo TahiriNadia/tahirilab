@@ -27,7 +27,8 @@ Nadia Tahiri (University of Sherbrooke)
 
 ### Related publications:
 
-- Tahiri, N. (2024). A new metric to classify B cell lineage tree. International Federation of Classification Societies, 1(18).
+- Farnia, M. and Tahiri, N. (2024). A new metric to classify B cell lineage tree. International Federation of Classification Societies, 1(18).
+- Farnia, M. and Tahiri, N. (2024). New generalized metric based on branch length distance to compare B cell lineage trees. Algorithms for Molecular Biology, 19(1), p.22.
 
 ### FUNDING:
 
