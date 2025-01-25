@@ -19,11 +19,6 @@ Consensus tree and supertree inference methods synthesize collections of gene ph
 </div> 
 
 
-### Principal Investigator:
-
-Nadia Tahiri (University of Sherbrooke)
-
-
 ### Related publications:
 
 - Sifat, M. H. R., & Tahiri, N. (2024). A new algorithm for building comprehensive consensus tree.
