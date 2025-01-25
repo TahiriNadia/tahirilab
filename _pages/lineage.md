@@ -20,11 +20,6 @@ By advancing the accuracy of both comparative analysis and classification, this 
 </div> 
 
 
-### Principal Investigator:
-
-Nadia Tahiri (University of Sherbrooke)
-
-
 ### Related publications:
 
 - Farnia, M. and Tahiri, N. (2024). A new metric to classify B cell lineage tree. International Federation of Classification Societies, 1(18).
