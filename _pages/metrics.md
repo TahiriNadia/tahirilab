@@ -19,11 +19,6 @@ Comparing phylogenetic trees is a prominent problem widely used in applications 
 </div> 
 
 
-### Principal Investigator:
-
-Nadia Tahiri (University of Sherbrooke)
-
-
 ### Related publications:
 
 - Koshkarov, A., & Tahiri, N. (2024). Novel Algorithm for Comparing Phylogenetic Trees with Different but Overlapping Taxa. Symmetry, 16(7), 790.
