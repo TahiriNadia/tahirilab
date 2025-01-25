@@ -21,16 +21,13 @@ Consensus tree and supertree inference methods synthesize collections of gene ph
 
 ### Related publications:
 
-- Sifat, M. H. R., & Tahiri, N. (2024). A new algorithm for building comprehensive consensus tree.
-
+- Torquet, E., Jansson, J., & Tahiri, N. (2025). Graph-based method for constructing consensus trees. Proceedings in 15th International Conference on Bioscience, Biochemistry and Bioinformatics (ICBBB 2025), Bangkok, Thailand.
+- Sifat, M. H. R., & Tahiri, N. (2024). A new algorithm for building comprehensive consensus tree. Proceedings in 4th workshop on Graphs and more Complex structures for Learning and Reasoning, Vancouver, Canada.
 - Makarenkov, V., Barseghyan, G. S., & Tahiri, N. (2023). Inferring multiple consensus trees and supertrees using clustering: A review. Data Analysis and Optimization: In Honor of Boris Mirkin's 80th Birthday, 191-213.
-
 - Tahiri, N., & Koshkarov, A. (2022, July). New Metrics for Classifying Phylogenetic Trees Using K-means and the Symmetric Difference Metric. In Conference of the International Federation of Classification Societies (pp. 383-391). Cham: Springer International Publishing.
-
 - Tahiri, N., Fichet, B., & Makarenkov, V. (2022). Building alternative consensus trees and supertrees using k-means and Robinson and Foulds distance. Bioinformatics, 38(13), 3367-3376.
-
 - Tahiri, N; Willems, M; Makarenkov, V. (2018). A new fast method for inferring multiple consensus trees using k-medoids. BMC evolutionary biology. 18(48): 1-12.
 
 ### FUNDING:
 
-Fonds de recherche du Québec - Nature et Technologie (FRQNT)
+- Fonds de recherche du Québec - Nature et Technologie (FRQNT)
